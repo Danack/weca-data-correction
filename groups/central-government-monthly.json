@@ -1,0 +1,232 @@
+{
+  "id": "central-government-monthly",
+  "title": "Central government monthly payments",
+  "note": "Added Funding from Central Government payments described as Government Departments, paid to Bristol City Council or to the Ministry of Housing, Communities and Local Government.",
+  "kind": "added",
+  "members": [
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003390",
+      "date": "2022-11-28",
+      "amount": "544689.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003531",
+      "date": "2023-01-04",
+      "amount": "544690.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003671",
+      "date": "2023-02-01",
+      "amount": "544689.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003779",
+      "date": "2023-02-23",
+      "amount": "544690.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003915",
+      "date": "2023-03-29",
+      "amount": "544689.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004191",
+      "date": "2023-05-06",
+      "amount": "729628.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004282",
+      "date": "2023-05-31",
+      "amount": "729627.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004432",
+      "date": "2023-06-25",
+      "amount": "729628.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004597",
+      "date": "2023-07-31",
+      "amount": "729628.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004707",
+      "date": "2023-08-29",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004811",
+      "date": "2023-09-25",
+      "amount": "648557.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400004944",
+      "date": "2023-10-25",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400005073",
+      "date": "2023-11-15",
+      "amount": "135115.83",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400005073",
+      "date": "2023-11-15",
+      "amount": "1324139.17",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400005088",
+      "date": "2023-11-27",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400005181",
+      "date": "2023-12-22",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "400005277",
+      "date": "2024-01-29",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "400005405",
+      "date": "2024-03-01",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "400005502",
+      "date": "2024-03-25",
+      "amount": "648558.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "400007438",
+      "date": "2025-01-24",
+      "amount": "708473.00",
+      "supplier": "MINISTRY OF HOUSING, COMMUNITIES & LOCAL GOVERNMENT"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "400007593",
+      "date": "2025-02-24",
+      "amount": "708472.00",
+      "supplier": "MINISTRY OF HOUSING, COMMUNITIES & LOCAL GOVERNMENT"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "400007801",
+      "date": "2025-03-28",
+      "amount": "708473.00",
+      "supplier": "MINISTRY OF HOUSING, COMMUNITIES & LOCAL GOVERNMENT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008247",
+      "date": "2025-05-07",
+      "amount": "836740.00",
+      "supplier": "MINISTRY OF HOUSING, COMMUNITIES AND LOCAL GOVERNMENT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008385",
+      "date": "2025-05-28",
+      "amount": "836740.00",
+      "supplier": "MINISTRY OF HOUSING, COMMUNITIES AND LOCAL GOVERNMENT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008523",
+      "date": "2025-06-27",
+      "amount": "836740.00",
+      "supplier": "MINISTRY OF HOUSING, COMMUNITIES AND LOCAL GOVERNMENT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008674",
+      "date": "2025-08-01",
+      "amount": "836740.00",
+      "supplier": "MHCLG"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008810",
+      "date": "2025-09-03",
+      "amount": "743769.00",
+      "supplier": "MHCLG"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008885",
+      "date": "2025-10-01",
+      "amount": "743769.00",
+      "supplier": "MHCLG"
+    }
+  ]
+}

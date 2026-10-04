@@ -1,0 +1,74 @@
+financial_year,quarter,transaction_no,original_purpose,corrected_purpose,original_service_area,corrected_service_area,original_supplier,corrected_supplier,original_doc_date,corrected_doc_date,original_amount,corrected_amount,amount_delta
+2024/25,3,300014067,Communications & Marketing,Communications & Marketing,Strategy & Policy Team,Digital Innovation,MCLELLAN DESIGN LIMITED,[REDACTED],2024-05-30,2024-05-30,3466.00,3466.00,0.00
+2024/25,3,300015413,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-09-11,2024-09-11,2762.50,2762.50,0.00
+2024/25,3,300015505,Payments to Others,Payments to Others,Capital Delivery (Capital),Capital Delivery (Capital),Redacted – Sole Trader,[REDACTED],2024-09-18,2024-09-18,2000.00,2000.00,0.00
+2024/25,3,300015506,Payments to Others,Payments to Others,Capital Delivery (Capital),Capital Delivery (Capital),Redacted – Sole Trader,[REDACTED],2024-09-18,2024-09-18,2000.00,2000.00,0.00
+2024/25,3,300015528,Consultants,Consultants,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-09-24,2024-09-24,9069.50,9069.50,0.00
+2024/25,3,300015530,Consultants,Consultants,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-09-25,2024-09-25,14260.38,14260.38,0.00
+2024/25,3,300015630,Public Transport - Service Travel Costs,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-10-01,2024-10-01,632.26,632.26,0.00
+2024/25,3,300015630,Public Transport - Service Travel Costs,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-10-01,2024-10-01,7871.52,7871.52,0.00
+2024/25,3,300015659,Transport Operators,Transport Operators,Transport Operations,Integrated Transport,The Big Lemon,Big Lemon Bristol and The West LTD,2024-10-02,2024-10-02,58519.71,58519.71,0.00
+2024/25,3,300015667,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-10-02,2024-10-02,2137.53,2137.53,0.00
+2024/25,3,300015667,Capital Grants,Capital Grants,Capital Environment,Low Carbon & Net Zero (Capital),BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-10-02,2024-10-02,10878.00,10878.00,0.00
+2024/25,3,300015690,Transport Operators,Transport Operators,Transport Operations,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-10-04,2024-10-04,13324.94,13324.94,0.00
+2024/25,3,300015693,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-10-04,2024-10-04,2000.00,2000.00,0.00
+2024/25,3,300015695,Consultants,Consultants,People & Assets,"Digital, Data & Operations",Socitm Advisory Limited,CIVITEQ TRADING LIMITED,2024-10-04,2024-10-04,15000.00,15000.00,0.00
+2024/25,3,300015717,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Redacted – Sole Trader,[REDACTED],2024-10-08,2024-10-08,4625.00,4625.00,0.00
+2024/25,3,300015774,Communications & Marketing,Communications & Marketing,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted – Sole Trader,ANNA BARCLAY,2024-10-10,2024-10-10,1750.00,1750.00,0.00
+2024/25,3,300015813,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-10-14,2024-10-14,2500.00,2500.00,0.00
+2024/25,3,300015815,Consultants,Consultants,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-10-14,2024-10-14,11494.50,11494.50,0.00
+2024/25,3,300015825,Payments to Others,Payments to Others,Capital Delivery (Capital),Capital Delivery (Capital),Redacted – Sole Trader,[REDACTED],2024-10-14,2024-10-14,2000.00,2000.00,0.00
+2024/25,3,300015902,Communications & Marketing,Communications & Marketing,Mayoral,Mayoral,Redacted – Sole Trader,Paul Gillis,2024-10-17,2024-10-17,610.00,610.00,0.00
+2024/25,3,300015918,Consultants,Consultants,Transport Strategy,Transport Strategy,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-10-18,2024-10-18,12506.90,12506.90,0.00
+2024/25,3,300015922,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-10-18,2024-10-18,2500.00,2500.00,0.00
+2024/25,3,300016027,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-10-25,2024-10-25,2500.00,2500.00,0.00
+2024/25,3,300016028,Agency staff,Agency staff,Strategy & Policy Team,Strategy - Management,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-10-25,2024-10-25,1760.00,1760.00,0.00
+2024/25,3,300016046,Communications & Marketing,Communications & Marketing,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted – Sole Trader,[REDACTED],2024-10-25,2024-10-25,1500.00,1500.00,0.00
+2024/25,3,300016047,Communications & Marketing,Communications & Marketing,Culture & Creative,Creative & Culture Economy,Redacted – Sole Trader,[REDACTED],2024-10-25,2024-10-25,2000.00,2000.00,0.00
+2024/25,3,300016057,Consultants,Consultants,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-10-28,2024-10-28,24002.43,24002.43,0.00
+2024/25,3,300016138,Transport Operators,Transport Operators,Transport Operations,Integrated Transport,The Big Lemon,Big Lemon Bristol and The West LTD,2024-10-31,2024-10-31,54809.61,54809.61,0.00
+2024/25,3,300016139,Public Transport - Service Travel Costs,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-11-01,2024-11-01,779.28,779.28,0.00
+2024/25,3,300016139,Public Transport - Service Travel Costs,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-11-01,2024-11-01,10443.27,10443.27,0.00
+2024/25,3,300016141,Transport Operators,Transport Operators,Transport Operations,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-11-01,2024-11-01,13235.10,13235.10,0.00
+2024/25,3,300016145,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-11-01,2024-11-01,2500.00,2500.00,0.00
+2024/25,3,300016156,Communications & Marketing,Communications & Marketing,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted – Sole Trader,ANNA BARCLAY,2024-11-04,2024-11-04,1500.00,1500.00,0.00
+2024/25,3,300016171,Publicity & Events,Publicity & Events,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted – Sole Trader,[REDACTED],2024-11-04,2024-11-04,1890.00,1890.00,0.00
+2024/25,3,300016196,Consultants,Consultants,Culture & Creative,Creative & Culture Economy,Redacted – Sole Trader,ROZ STEWART-HALL RESEARCH AND EVALUATION,2024-11-05,2024-11-05,2000.00,2000.00,0.00
+2024/25,3,300016214,Consultants,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted – Sole Trader,[REDACTED],2024-11-06,2024-11-06,5000.00,5000.00,0.00
+2024/25,3,300016224,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-11-06,2024-11-06,2137.53,2137.53,0.00
+2024/25,3,300016262,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-11-08,2024-11-08,2500.00,2500.00,0.00
+2024/25,3,300016274,Consultants,Consultants,Low Carbon & Net Zero,Low Carbon & Net Zero,FUTURE LEAP ES LIMITED,CLOSED - FUTURE LEAP ES LIMITED,2024-11-11,2024-11-11,6007.53,6007.53,0.00
+2024/25,3,300016291,Fees,Fees,Grant Management & Assurance,Grant Management & Assurance,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-11-12,2024-11-12,5100.50,5100.50,0.00
+2024/25,3,300016321,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-11-13,2024-11-13,2971.70,2971.70,0.00
+2024/25,3,300016322,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-11-13,2024-11-13,27680.34,27680.34,0.00
+2024/25,3,300016323,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-11-13,2024-11-13,1765.01,1765.01,0.00
+2024/25,3,300016331,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-11-14,2024-11-14,2500.00,2500.00,0.00
+2024/25,3,300016377,Consultants,Consultants,Low Carbon & Net Zero,Low Carbon & Net Zero,FUTURE LEAP ES LIMITED,CLOSED - FUTURE LEAP ES LIMITED,2024-11-20,2024-11-20,6007.50,6007.50,0.00
+2024/25,3,300016400,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-11-20,2024-11-20,6984.00,6984.00,0.00
+2024/25,3,300016431,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-11-22,2024-11-22,2500.00,2500.00,0.00
+2024/25,3,300016453,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,PEC Trust,PEC Trust t/a Plymouth Energy Community,2024-11-25,2024-11-25,155585.89,155585.89,0.00
+2024/25,3,300016493,Communications & Marketing,Communications & Marketing,Strategy & Policy Team,Strategy - Policy,MCLELLAN DESIGN LIMITED,[REDACTED],2024-11-26,2024-11-26,1130.00,1130.00,0.00
+2024/25,3,300016570,Digital,Digital,"People, Skills & Inclusive Growth",Employment & Skills,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-11-29,2024-11-29,1050.00,1050.00,0.00
+2024/25,3,300016571,Digital,Digital,"People, Skills & Inclusive Growth",Employment & Skills,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-11-29,2024-11-29,3000.00,3000.00,0.00
+2024/25,3,300016576,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-11-29,2024-11-29,2500.00,2500.00,0.00
+2024/25,3,300016588,Public Transport - Service Travel Costs,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-12-02,2024-12-02,720.49,720.49,0.00
+2024/25,3,300016588,Public Transport - Service Travel Costs,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-12-02,2024-12-02,6491.90,6491.90,0.00
+2024/25,3,300016595,Consultants,Consultants,Transport Strategy,Transport Strategy,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-02,2024-12-02,5100.05,5100.05,0.00
+2024/25,3,300016623,Transport Operators,Transport Operators,Transport Operations,Integrated Transport,The Big Lemon,Big Lemon Bristol and The West LTD,2024-12-04,2024-12-04,56365.61,56365.61,0.00
+2024/25,3,300016624,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-04,2024-12-04,1062.50,1062.50,0.00
+2024/25,3,300016625,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-04,2024-12-04,1517.25,1517.25,0.00
+2024/25,3,300016626,Transport Operators,Transport Operators,Transport Operations,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-12-04,2024-12-04,13276.13,13276.13,0.00
+2024/25,3,300016652,Publicity & Events,Publicity & Events,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted – Sole Trader,[REDACTED],2024-12-04,2024-12-04,540.00,540.00,0.00
+2024/25,3,300016679,Digital,Digital,People & Assets,"Digital, Data & Operations",JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-12-06,2024-12-06,6755.57,6755.57,0.00
+2024/25,3,300016686,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-12-10,2024-12-10,2500.00,2500.00,0.00
+2024/25,3,300016691,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-10,2024-12-10,21016.33,21016.33,0.00
+2024/25,3,300016692,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-12-10,2024-12-10,8690.00,8690.00,0.00
+2024/25,3,300016693,Services,Services,Strategy & Policy Team,Homes & Regeneration,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-10,2024-12-10,65000.00,65000.00,0.00
+2024/25,3,300016705,Consultants,Consultants,Culture & Creative,Creative & Culture Economy,Redacted – Sole Trader,[REDACTED],2024-12-10,2024-12-10,2000.00,2000.00,0.00
+2024/25,3,300016739,Consultants,Consultants,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted – Sole Trader,[REDACTED],2024-12-12,2024-12-12,6687.50,6687.50,0.00
+2024/25,3,300016748,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-12-12,2024-12-12,5784.65,5784.65,0.00
+2024/25,3,300016748,Capital Grants,Capital Grants,Capital Environment,Low Carbon & Net Zero (Capital),BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-12-12,2024-12-12,36152.49,36152.49,0.00
+2024/25,3,300016752,Consultants,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted – Sole Trader,[REDACTED],2024-12-12,2024-12-12,5000.00,5000.00,0.00
+2024/25,3,300016793,Consultants,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-12-13,2024-12-13,2500.00,2500.00,0.00
+2024/25,3,300016874,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-18,2024-12-18,1912.50,1912.50,0.00
+2024/25,3,300016941,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-12-23,2024-12-23,7420.50,7420.50,0.00

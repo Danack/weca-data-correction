@@ -1,0 +1,73 @@
+financial_year,quarter,transaction_no,original_purpose,corrected_purpose,original_service_area,corrected_service_area,original_supplier,corrected_supplier,original_doc_date,corrected_doc_date,original_amount,corrected_amount,amount_delta
+2024/25,4,300016907,Communications & Marketing,Communications & Marketing,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted Sole Trader,REDACTED - SOLE TRADER,2024-12-23,2024-12-23,1250.00,1250.00,0.00
+2024/25,4,300016916,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2024-12-23,2024-12-23,2500.00,2500.00,0.00
+2024/25,4,300016918,Communications & Marketing,Communications & Marketing,Human Resources,Executive Office,SAM HANCOCK DESIGN LTD,REDACTED,2024-12-23,2024-12-23,3850.00,3850.00,0.00
+2024/25,4,300016944,External and Company Training,External and Company Training,Human Resources,HR,JOHN WESLEY�S NEW ROOM,JOHN WESLEY'S NEW ROOM,2024-12-23,2024-12-23,1468.50,1468.50,0.00
+2024/25,4,300016983,Consultants,Consultants,Bristol Temple Quarter,Bristol Temple Quarter,Redacted Sole Trader,Esther Shelley Design,2025-01-02,2025-01-02,5040.00,5040.00,0.00
+2024/25,4,300016997,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-01-03,2025-01-03,1000.00,1000.00,0.00
+2024/25,4,300017022,Services,Services,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",DESTINATION BRISTOL T/A VISIT WEST,VISIT WEST LIMITED,2025-01-07,2025-01-07,6875.00,6875.00,0.00
+2024/25,4,300017034,Consultants,Consultants,Employment & Skills,Employment & Skills,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,REDACTED,2025-01-07,2025-01-07,14424.00,14424.00,0.00
+2024/25,4,300017036,Fees,Fees,Strategy & Policy Team,Strategy - Projects,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-01-07,2025-01-07,4000.00,4000.00,0.00
+2024/25,4,300017073,Consultants,Consultants,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-01-09,2025-01-09,4631.00,4631.00,0.00
+2024/25,4,300017074,Consultants,Consultants,Strategy & Policy Team,Strategy - Policy,MARK LEAVER CONSULTING LTD,REDACTED,2025-01-09,2025-01-09,1950.00,1950.00,0.00
+2024/25,4,300017097,Grants,Grants,Culture & Creative,Creative & Culture Economy,DESTINATION BRISTOL T/A VISIT WEST,VISIT WEST LIMITED,2025-01-10,2025-01-10,350000.00,350000.00,0.00
+2024/25,4,300017098,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,SASSY SCENTS,2025-01-10,2025-01-10,20000.00,20000.00,0.00
+2024/25,4,300017101,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-01-10,2025-01-10,2500.00,2500.00,0.00
+2024/25,4,300017109,Grants,Grants,Culture & Creative,Creative & Culture Economy,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-01-10,2025-01-10,1140.00,1140.00,0.00
+2024/25,4,300017174,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-01-17,2025-01-17,2500.00,2500.00,0.00
+2024/25,4,300017240,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-01-24,2025-01-24,2500.00,2500.00,0.00
+2024/25,4,300017241,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Sundry Supplier- General,SAFER SHOPS,2025-01-24,2025-01-24,3543.00,3543.00,0.00
+2024/25,4,300017379,Consultants,Consultants,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-01-30,2025-01-30,950.00,950.00,0.00
+2024/25,4,300017407,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-01-31,2025-01-31,2500.00,2500.00,0.00
+2024/25,4,300017420,Consultants,Consultants,Culture & Creative,Creative & Culture Economy,FRAZER MEAKING,REDACTED,2025-02-03,2025-02-03,3999.99,3999.99,0.00
+2024/25,4,300017429,Publicity & Events,Publicity & Events,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-04,2025-02-04,1847.50,1847.50,0.00
+2024/25,4,300017444,Grants,Grants,Culture & Creative,Creative & Culture Economy,Sue Richardson Associates Ltd,REDACTED,2025-02-04,2025-02-04,1500.00,1500.00,0.00
+2024/25,4,300017463,Consultants,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-04,2025-02-04,4000.00,4000.00,0.00
+2024/25,4,300017503,Communications & Marketing,Communications & Marketing,Human Resources,Executive Office,SAM HANCOCK DESIGN LTD,REDACTED,2025-02-05,2025-02-05,1347.00,1347.00,0.00
+2024/25,4,300017531,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,TRUPLE CO ROAST,2025-02-07,2025-02-07,20000.00,20000.00,0.00
+2024/25,4,300017539,Consultants,Consultants,Strategy & Policy Team,Strategy - Policy,MARK LEAVER CONSULTING LTD,REDACTED,2025-02-07,2025-02-07,1950.00,1950.00,0.00
+2024/25,4,300017575,Services,Services,Nature Recovery & Climate Straegy,Nature Recovery & Climate Strategy,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-11,2025-02-11,2500.00,2500.00,0.00
+2024/25,4,300017576,Communications & Marketing,Communications & Marketing,Nature Recovery & Climate Straegy,Nature Recovery & Climate Strategy,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-11,2025-02-11,4500.00,4500.00,0.00
+2024/25,4,300017577,Communications & Marketing,Communications & Marketing,Nature Recovery & Climate Straegy,Nature Recovery & Climate Strategy,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-11,2025-02-11,1000.00,1000.00,0.00
+2024/25,4,300017595,Digital,Digital,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-12,2025-02-12,2361.90,2361.90,0.00
+2024/25,4,300017642,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-02-17,2025-02-17,2500.00,2500.00,0.00
+2024/25,4,300017669,Digital,Digital,Chief Executive,Executive Office,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,REDACTED,2025-02-17,2025-02-17,16187.50,16187.50,0.00
+2024/25,4,300017676,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-02-17,2025-02-17,2500.00,2500.00,0.00
+2024/25,4,300017688,Capital Grants,Capital Grants,Capital Innovation and Sector Development,Intergrated Delivery (Capital),Jekka�s Limited,Jekka's Limited,2025-02-18,2025-02-18,3361.74,3361.74,0.00
+2024/25,4,300017719,Consultants,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-20,2025-02-20,2500.00,2500.00,0.00
+2024/25,4,300017732,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-02-21,2025-02-21,2500.00,2500.00,0.00
+2024/25,4,300017753,Publicity & Events,Publicity & Events,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Team Jess Limited - Trading as Halo PR and Communications,REDACTED,2025-02-24,2025-02-24,2000.00,2000.00,0.00
+2024/25,4,300017767,Communications & Marketing,Communications & Marketing,Human Resources,Executive Office,SAM HANCOCK DESIGN LTD,REDACTED,2025-02-24,2025-02-24,577.00,577.00,0.00
+2024/25,4,300017832,Communications & Marketing,Communications & Marketing,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-02-26,2025-02-26,1500.00,1500.00,0.00
+2024/25,4,300017885,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-02-28,2025-02-28,2500.00,2500.00,0.00
+2024/25,4,300017895,Services,Services,Housing & Planning,Homes & Regeneration,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-03-03,2025-03-03,850.00,850.00,0.00
+2024/25,4,300017908,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,PEC Trust,PEC Trust t/a Plymouth Energy Community,2025-03-03,2025-03-03,176025.81,176025.81,0.00
+2024/25,4,300017945,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,THE SOMERSET TOILETRY,2025-03-05,2025-03-05,20000.00,20000.00,0.00
+2024/25,4,300017946,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,STAPLEBARN,2025-03-05,2025-03-05,15032.58,15032.58,0.00
+2024/25,4,300017987,Consultants,Consultants,Strategy & Policy Team,Strategy - Policy,MARK LEAVER CONSULTING LTD,REDACTED,2025-03-07,2025-03-07,6000.00,6000.00,0.00
+2024/25,4,300018000,Professional Fees,Professional Fees,Capital Delivery (Capital),Capital Delivery (Capital),JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,REDACTED,2025-03-07,2025-03-07,9791.50,9791.50,0.00
+2024/25,4,300018020,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-03-07,2025-03-07,2500.00,2500.00,0.00
+2024/25,4,300018023,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,INDEPENDENT COMPOSITES,2025-03-07,2025-03-07,14505.00,14505.00,0.00
+2024/25,4,300018031,Consultants,Consultants,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-03-10,2025-03-10,1200.00,1200.00,0.00
+2024/25,4,300018032,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),(CIS) VALLEYS WASTE SERVICES,VALLEYS WASTE SERVICES,2025-03-10,2025-03-10,575.00,575.00,0.00
+2024/25,4,300018071,Communications & Marketing,Communications & Marketing,Strategy & Policy Team,Strategy - Projects,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-03-12,2025-03-12,1055.00,1055.00,0.00
+2024/25,4,300018111,Consultants,Consultants,Strategy & Policy Team,Strategy - Policy,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-03-12,2025-03-12,9000.00,9000.00,0.00
+2024/25,4,300018151,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-03-13,2025-03-13,2000.00,2000.00,0.00
+2024/25,4,300018182,Communications & Marketing,Communications & Marketing,Human Resources,Executive Office,SAM HANCOCK DESIGN LTD,REDACTED,2025-03-14,2025-03-14,1155.00,1155.00,0.00
+2024/25,4,300018183,Consultants,Consultants,Nature Recovery & Climate Straegy,Nature Recovery & Climate Strategy,The Coal Authority,The Coal Authority T/A Mining Remediation Authority,2025-03-14,2025-03-14,10504.00,10504.00,0.00
+2024/25,4,300018208,Publicity & Events,Publicity & Events,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Team Jess Limited - Trading as Halo PR and Communications,REDACTED,2025-03-06,2025-03-06,5000.00,5000.00,0.00
+2024/25,4,300018214,Capital Grants,Capital Grants,Capital Innovation and Sector Development,Intergrated Delivery (Capital),Jekka�s Limited,Jekka's Limited,2025-03-06,2025-03-06,1458.96,1458.96,0.00
+2024/25,4,300018221,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,RENN CONSULTANCY,2025-03-17,2025-03-17,20000.00,20000.00,0.00
+2024/25,4,300018222,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,CONTRAST TIMBERS,2025-03-17,2025-03-17,10673.79,10673.79,0.00
+2024/25,4,300018223,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,FORMADOME,2025-03-17,2025-03-17,20000.00,20000.00,0.00
+2024/25,4,300018224,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,FOWLERS OF BRISTOL,2025-03-17,2025-03-17,19361.00,19361.00,0.00
+2024/25,4,300018250,Services,Services,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",DESTINATION BRISTOL T/A VISIT WEST,VISIT WEST LIMITED,2025-03-18,2025-03-18,6125.00,6125.00,0.00
+2024/25,4,300018260,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,AVIN ELECTRONICS,2025-03-18,2025-03-18,19495.00,19495.00,0.00
+2024/25,4,300018262,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,CLIFTON PHOTONICS,2025-03-18,2025-03-18,7750.00,7750.00,0.00
+2024/25,4,300018276,Fees,Fees,Culture & Creative,Creative & Culture Economy,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-03-19,2025-03-19,1750.00,1750.00,0.00
+2024/25,4,300018329,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,SANOH UK,2025-03-20,2025-03-20,10222.35,10222.35,0.00
+2024/25,4,300018346,Consultants,Consultants,Employment & Skills,Employment & Skills,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,REDACTED,2025-03-21,2025-03-21,7212.00,7212.00,0.00
+2024/25,4,300018349,Consultants,Consultants,Financial Services,Financial Services,Mark Hourston Consultancy Ltd,REDACTED,2025-03-21,2025-03-21,2500.00,2500.00,0.00
+2024/25,4,300018387,Communications & Marketing,Communications & Marketing,Human Resources,Executive Office,Redacted Sole Trader,REDACTED - SOLE TRADER,2025-03-24,2025-03-24,5000.00,5000.00,0.00
+2024/25,4,300018390,Grants,Grants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",SUNDRY SUPPLIER - MADE SMARTER GRANTS,COUNTER CULTURE DRINKS,2025-03-24,2025-03-24,17540.00,17540.00,0.00
+2024/25,4,300018407,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),SAM HANCOCK DESIGN LTD,REDACTED,2025-03-25,2025-03-25,1200.00,1200.00,0.00

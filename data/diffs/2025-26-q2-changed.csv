@@ -1,0 +1,31 @@
+financial_year,quarter,transaction_no,original_purpose,corrected_purpose,original_service_area,corrected_service_area,original_supplier,corrected_supplier,original_doc_date,corrected_doc_date,original_amount,corrected_amount,amount_delta
+2025/26,2,300019733,Publicity & Events,Publicity & Events,Nature Recovery & Climate Strategy,Nature Recovery & Climate Strategy,Redacted - Sole Trader,A J Belshaw,2025-06-26,2025-06-26,1350.00,1350.00,0.00
+2025/26,2,300019870,Transport Operators,Transport Operators,Integrated Transport,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2025-07-03,2025-07-03,13720.05,13720.05,0.00
+2025/26,2,300020429,Transport Operators,Transport Operators,Integrated Transport,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2025-08-12,2025-08-12,13564.48,13564.48,0.00
+2025/26,2,300020446,Fees,Fees,Nature Recovery & Climate Strategy,Nature Recovery & Climate Strategy,Redacted - Sole Trader,Tim Scoones � freelance media consultant,2025-08-12,2025-08-12,5000.00,5000.00,0.00
+2025/26,2,300020529,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Redacted - Sole Trader,ANDY COUNCIL,2025-08-20,2025-08-20,1625.00,1625.00,0.00
+2025/26,2,300020593,Consultants,Consultants,Creative & Culture Economy,Creative & Culture Economy,Redacted - Sole Trader,Briony Phillips,2025-08-27,2025-08-27,4995.00,4995.00,0.00
+2025/26,2,300020669,Transport Operators,Transport Operators,Integrated Transport,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2025-09-02,2025-09-02,13648.13,13648.13,0.00
+2025/26,2,300020671,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2025-09-02,2025-09-02,9586.01,9586.01,0.00
+2025/26,2,300020676,Capital Grants,Capital Grants,Low Carbon & Net Zero (Capital),Low Carbon & Net Zero (Capital),BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2025-09-02,2025-09-02,80456.19,80456.19,0.00
+2025/26,2,300020679,Grants,Grants,Creative & Culture Economy,Creative & Culture Economy,Redacted - Sole Trader,Anna Smithson,2025-09-02,2025-09-02,1360.00,1360.00,0.00
+2025/26,2,300020708,Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2025-09-03,2025-09-03,12701.72,12701.72,0.00
+2025/26,2,300020882,Professional Fees Project,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Redacted - Sole Trader,ANDY COUNCIL,2025-09-16,2025-09-16,1625.00,1625.00,0.00
+2025/26,2,300020913,Consultants,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted - Sole Trader,Y E ELSOROUGI,2025-09-18,2025-09-18,4990.00,4990.00,0.00
+2025/26,2,300020949,Consultants,Consultants,HR,HR,Redacted - Sole Trader,Laura Williams,2025-09-19,2025-09-19,1200.00,1200.00,0.00
+2025/26,2,400008674,Fees,Fees,Financing,Financial Services,Cabinet Office National Fraud,Cabinet Office,2025-08-01,2025-08-01,1315.00,1315.00,0.00
+2025/26,2,400008674,Capital Grants,Fees,Bristol Temple Quarter (Capital),Financial Services,Southern Gateway,NATWEST ONECARD,2025-08-01,2025-08-01,62277.00,14679.86,-47597.14
+2025/26,2,400008674,Transport Operators,NDR Business Rates,Network and Services,"Digital, Data & Operations",Via DRT,BRISTOL CITY COUNCIL,2025-08-01,2025-08-01,133460.11,19888.00,-113572.11
+2025/26,2,400008674,Transport Operators,Fees,Network and Services,Bristol Temple Quarter (Capital),Via DRT,Planning Portal,2025-08-01,2025-08-01,186964.18,62277.00,-124687.18
+2025/26,2,400008674,Transport Operators,Transport Operators,Network and Services,Integrated Transport,Via DRT,VIA TECHNOLOGIES,2025-08-01,2025-08-01,334938.36,133460.11,-201478.25
+2025/26,2,400008810,Transport Operators,NDR Business Rates,Network and Services,Bristol Temple Quarter,Via DRT,BRISTOL CITY COUNCIL GEN ACCOUNT,2025-09-03,2025-09-03,10515.00,2879.18,-7635.82
+2025/26,2,400008885,Grants,Grants,Culture West Investment Fund,Creative & Culture Economy,creativeShift CIC,CREATIVE SHIFT CIC,2025-10-01,2025-10-01,3800.00,3800.00,0.00
+2025/26,2,400008885,Grants,Grants,Culture West Investment Fund,Creative & Culture Economy,DIVERSE ARTISTS NETWORK CIC,DIVERSE ARTISTS NETWORK,2025-10-01,2025-10-01,6000.00,6000.00,0.00
+2025/26,2,400008885,Transport Operators,Transport Operators,Network and Services,Integrated Transport,Via DRT,VIA TECHNOLOGIES,2025-10-01,2025-10-01,129662.96,7025.00,-122637.96
+2025/26,2,400008885,Transport Operators,Fees,Network and Services,Financial Services,Via DRT,NATWEST ONECARD,2025-10-01,2025-10-01,148750.00,7231.25,-141518.75
+2025/26,2,400008885,Capital Grants,NDR Business Rates,Network North,"Digital, Data & Operations",BATH & NORTH EAST SOMERSET COUNCIL GENERAL SUSPSENSE ACCOUNT,BRISTOL CITY COUNCIL GEN ACCOUNT,2025-10-01,2025-10-01,2220250.00,19888.00,-2200362.00
+2025/26,2,400008885,Capital Grants,Transport Operators,Network North,Integrated Transport,BRISTOL CITY COUNCIL GEN ACCOUNT,VIA TECHNOLOGIES,2025-10-01,2025-10-01,2783500.00,122622.96,-2660877.04
+2025/26,2,400008885,Capital Grants,Fees,Network North,Creative & Culture Economy,SOUTH GLOUCESTERSHIRE COUNCIL,CREATIVE ENGLAND,2025-10-01,2025-10-01,2929250.00,148750.00,-2780500.00
+2025/26,2,900004449,Grants,Grants,Adult Skills Fund - Core 24/25,Employment & Skills,WOMEN�S WORK LAB,WOMEN'S WORK LAB,2025-07-02,2025-07-02,29492.00,29492.00,0.00
+2025/26,2,900004592,Grants,Grants,Adult Skills Fund - Core 25/26,Employment & Skills,WOMEN�S WORK LAB,WOMEN'S WORK LAB,2025-08-04,2025-08-04,29284.00,29284.00,0.00
+2025/26,2,900004675,Grants,Grants,Adult Skills Fund - Core 25/26,Employment & Skills,WOMEN�S WORK LAB,WOMEN'S WORK LAB,2025-09-03,2025-09-03,29284.00,29284.00,0.00

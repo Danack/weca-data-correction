@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang='en'><head><meta charset='utf-8'>
+<title>Repeated transaction numbers</title>
+<style>
+body{font-family:Georgia,serif;max-width:1100px;margin:2rem auto;padding:0 1rem;color:#1a1a1a;}
+h1,h2{font-weight:normal;} table{border-collapse:collapse;width:100%;margin:1rem 0 2rem;font-size:0.88rem;}
+th,td{border-bottom:1px solid #ccc;text-align:left;padding:0.35rem 0.45rem;vertical-align:top;}
+th{font-size:0.78rem;} td.num,th.num{text-align:right;}
+p.note{color:#444;}
+</style></head><body>
+<h1>Repeated transaction numbers</h1>
+<p>A repeated transaction number is one Transaction No used on more than one payment line inside a single quarterly file. Lines are counted within that file. The same number appearing again in a later quarter is counted separately, below.</p>
+<p>Most repeats are several lines for one supplier: the same purpose more than once, or different purposes. A number shared by different suppliers is a separate case.</p>
+<h2>Original files</h2>
+<p>All 22 original files contain at least one repeated number: 632 numbers, out of 16112. Of those, 401 are the same supplier and the same purpose, and 229 are the same supplier with more than one purpose. Different suppliers share a number twice, both in the 2025/26 Q2 file, Second-Quarter-July-2025-September-2025-CSVin.csv: 400008674 (5 lines, 3 suppliers, 1 August 2025) and 400008885 (10 lines, 9 suppliers, 1 October 2025).</p>
+<p>Two numbers also appear in two original quarters, with the same supplier and amount both times: 300016904, AECOM, £6,100, in 2024/25 Q3 and Q4, and 300016921, Turner and Townsend, £1,062, in the same two quarters. Every other original transaction number stays inside one quarter.</p>
+<table><thead><tr><th>Year</th><th>Q</th><th>File</th><th class='num'>Transaction numbers</th><th class='num'>Repeated</th><th class='num'>Same supplier, same purpose</th><th class='num'>Same supplier, different purpose</th><th class='num'>Different suppliers</th></tr></thead><tbody>
+<tr><td>2020/21</td><td>1</td><td>Transparency-Report.csv</td><td class='num'>335</td><td class='num'>1</td><td class='num'>1</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2020/21</td><td>2</td><td>Transparency-Report-Q2.csv</td><td class='num'>515</td><td class='num'>22</td><td class='num'>15</td><td class='num'>7</td><td class='num'>0</td></tr>
+<tr><td>2020/21</td><td>3</td><td>Transparency-Report-Q3.csv</td><td class='num'>606</td><td class='num'>14</td><td class='num'>5</td><td class='num'>9</td><td class='num'>0</td></tr>
+<tr><td>2020/21</td><td>4</td><td>Transparency-Report-Q4.csv</td><td class='num'>680</td><td class='num'>9</td><td class='num'>3</td><td class='num'>6</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>1</td><td>Transparency-Report-Q1-for-Website-3.csv</td><td class='num'>473</td><td class='num'>8</td><td class='num'>6</td><td class='num'>2</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>2</td><td>Transparency-Report-Q2-for-website-2.csv</td><td class='num'>396</td><td class='num'>7</td><td class='num'>7</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>3</td><td>Transparency-Report-Q3-October-21-December-21.csv</td><td class='num'>492</td><td class='num'>6</td><td class='num'>3</td><td class='num'>3</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>4</td><td>Transparency-Report-Q4-January-2022---March-2022.csv</td><td class='num'>631</td><td class='num'>14</td><td class='num'>10</td><td class='num'>4</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>1</td><td>Transparency-Report-Q1-for-website-2.csv</td><td class='num'>496</td><td class='num'>9</td><td class='num'>9</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>2</td><td>Transparency-Report-Q2-for-website.csv</td><td class='num'>566</td><td class='num'>10</td><td class='num'>6</td><td class='num'>4</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>3</td><td>Third-Quarter-October-2022-December-2022-2.csv</td><td class='num'>632</td><td class='num'>16</td><td class='num'>15</td><td class='num'>1</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>4</td><td>Transparency-Report-Q4-for-website.csv</td><td class='num'>918</td><td class='num'>18</td><td class='num'>8</td><td class='num'>10</td><td class='num'>0</td></tr>
+<tr><td>2023/24</td><td>1</td><td>Transparency-Report-Q1-for-website.csv</td><td class='num'>739</td><td class='num'>24</td><td class='num'>13</td><td class='num'>11</td><td class='num'>0</td></tr>
+<tr><td>2023/24</td><td>2</td><td>Transparency-Report-Q2-for-website-csv.csv</td><td class='num'>696</td><td class='num'>28</td><td class='num'>22</td><td class='num'>6</td><td class='num'>0</td></tr>
+<tr><td>2023/24</td><td>3</td><td>Transparency-Report-Q3-for-website-1-1.csv</td><td class='num'>759</td><td class='num'>27</td><td class='num'>13</td><td class='num'>14</td><td class='num'>0</td></tr>
+<tr><td>2023/24</td><td>4</td><td>Transparency-Report-Q4-For-Website-1.xlsx</td><td class='num'>1000</td><td class='num'>52</td><td class='num'>52</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2024/25</td><td>1</td><td>Transparency-report-First-Quarter-April-2024---June-2024.csv</td><td class='num'>847</td><td class='num'>46</td><td class='num'>16</td><td class='num'>30</td><td class='num'>0</td></tr>
+<tr><td>2024/25</td><td>2</td><td>Transparency-Report-Q2-for-website-1in.csv</td><td class='num'>897</td><td class='num'>66</td><td class='num'>25</td><td class='num'>41</td><td class='num'>0</td></tr>
+<tr><td>2024/25</td><td>3</td><td>Third-quarter-October-2024-December-2024-2.xlsx</td><td class='num'>1067</td><td class='num'>36</td><td class='num'>19</td><td class='num'>17</td><td class='num'>0</td></tr>
+<tr><td>2024/25</td><td>4</td><td>Fourth-Quarter-January-2025-March-2025-CSV-1.csv</td><td class='num'>1168</td><td class='num'>73</td><td class='num'>50</td><td class='num'>23</td><td class='num'>0</td></tr>
+<tr><td>2025/26</td><td>1</td><td>First-Quarter-April-2025-June-2025-CSV.xlsx</td><td class='num'>1000</td><td class='num'>57</td><td class='num'>41</td><td class='num'>16</td><td class='num'>0</td></tr>
+<tr><td>2025/26</td><td>2</td><td>Second-Quarter-July-2025-September-2025-CSVin.csv</td><td class='num'>1199</td><td class='num'>89</td><td class='num'>62</td><td class='num'>25</td><td class='num'>2</td></tr>
+<tr><td colspan='3'>Total</td><td class='num'>16112</td><td class='num'>632</td><td class='num'>401</td><td class='num'>229</td><td class='num'>2</td></tr>
+</tbody></table>
+<h2>Corrected files</h2>
+<p>All 22 corrected files contain repeated numbers: 786 numbers, out of 22832. Same supplier and same purpose: 488. Same supplier, different purpose: 212. Different suppliers: 86 numbers.</p>
+<p>No corrected file before 2022/23 Q3 has a number shared by different suppliers. From that quarter on, every corrected file has some. The widest are in 2025/26: 400008247 (26 lines, 7 suppliers, two dates), 400008523 (12 lines, 8 suppliers) and 400008885 (17 lines, 12 suppliers).</p>
+<p>Separately, 2,423 transaction numbers appear both in the corrected 2020/21 Q1 file and in one later corrected quarter. That file repeats payments whose dates fall outside April to June 2020. No corrected transaction number is shared by two quarters except through that file.</p>
+<table><thead><tr><th>Year</th><th>Q</th><th>File</th><th class='num'>Transaction numbers</th><th class='num'>Repeated</th><th class='num'>Same supplier, same purpose</th><th class='num'>Same supplier, different purpose</th><th class='num'>Different suppliers</th></tr></thead><tbody>
+<tr><td>2020/21</td><td>1</td><td>First-Quarter-April-2020-June-2020.csv</td><td class='num'>2778</td><td class='num'>53</td><td class='num'>49</td><td class='num'>4</td><td class='num'>0</td></tr>
+<tr><td>2020/21</td><td>2</td><td>Second-Quarter-July-2020-September-2020.csv</td><td class='num'>529</td><td class='num'>23</td><td class='num'>23</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2020/21</td><td>3</td><td>Third-Quarter-October-2020-December-2020.csv</td><td class='num'>598</td><td class='num'>9</td><td class='num'>6</td><td class='num'>3</td><td class='num'>0</td></tr>
+<tr><td>2020/21</td><td>4</td><td>Fourth-Quarter-January-2021-March-2021.csv</td><td class='num'>704</td><td class='num'>9</td><td class='num'>8</td><td class='num'>1</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>1</td><td>First-Quarter-April-2021-June-2021.csv</td><td class='num'>592</td><td class='num'>11</td><td class='num'>11</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>2</td><td>Second-Quarter-July-2021-September-2021.csv</td><td class='num'>849</td><td class='num'>9</td><td class='num'>9</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>3</td><td>Third-Quarter-October-2021-December-2021.csv</td><td class='num'>708</td><td class='num'>6</td><td class='num'>4</td><td class='num'>2</td><td class='num'>0</td></tr>
+<tr><td>2021/22</td><td>4</td><td>Fourth-Quarter-January-2022-March-2022.csv</td><td class='num'>854</td><td class='num'>14</td><td class='num'>12</td><td class='num'>2</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>1</td><td>First-Quarter-April-2022-June-2022.csv</td><td class='num'>717</td><td class='num'>9</td><td class='num'>9</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>2</td><td>Second-Quarter-July-2022-September-2022.csv</td><td class='num'>828</td><td class='num'>11</td><td class='num'>11</td><td class='num'>0</td><td class='num'>0</td></tr>
+<tr><td>2022/23</td><td>3</td><td>Third-Quarter-October-2022-December-2022.csv</td><td class='num'>840</td><td class='num'>21</td><td class='num'>16</td><td class='num'>1</td><td class='num'>4</td></tr>
+<tr><td>2022/23</td><td>4</td><td>Fourth-Quarter-January-2023-March-2023.csv</td><td class='num'>1165</td><td class='num'>27</td><td class='num'>12</td><td class='num'>8</td><td class='num'>7</td></tr>
+<tr><td>2023/24</td><td>1</td><td>First-Quarter-April-2023-June-2023.csv</td><td class='num'>985</td><td class='num'>32</td><td class='num'>18</td><td class='num'>7</td><td class='num'>7</td></tr>
+<tr><td>2023/24</td><td>2</td><td>Second-Quarter-July-2023-September-2023.csv</td><td class='num'>911</td><td class='num'>38</td><td class='num'>24</td><td class='num'>5</td><td class='num'>9</td></tr>
+<tr><td>2023/24</td><td>3</td><td>Third-Quarter-October-2023-December-2023.csv</td><td class='num'>1010</td><td class='num'>41</td><td class='num'>19</td><td class='num'>10</td><td class='num'>12</td></tr>
+<tr><td>2023/24</td><td>4</td><td>Fourth-Quarter-January-2024-March-2024.csv</td><td class='num'>1264</td><td class='num'>58</td><td class='num'>31</td><td class='num'>21</td><td class='num'>6</td></tr>
+<tr><td>2024/25</td><td>1</td><td>First-Quarter-April-2024-June-2024.csv</td><td class='num'>1096</td><td class='num'>51</td><td class='num'>19</td><td class='num'>27</td><td class='num'>5</td></tr>
+<tr><td>2024/25</td><td>2</td><td>Second-Quarter-July-2024-September-2024.csv</td><td class='num'>1129</td><td class='num'>82</td><td class='num'>32</td><td class='num'>40</td><td class='num'>10</td></tr>
+<tr><td>2024/25</td><td>3</td><td>Third-Quarter-October-2024-December-2024.csv</td><td class='num'>1398</td><td class='num'>48</td><td class='num'>20</td><td class='num'>17</td><td class='num'>11</td></tr>
+<tr><td>2024/25</td><td>4</td><td>Fourth-Quarter-January-2025-March-2025.csv</td><td class='num'>1457</td><td class='num'>82</td><td class='num'>50</td><td class='num'>23</td><td class='num'>9</td></tr>
+<tr><td>2025/26</td><td>1</td><td>First-Quarter-April-2025-June-2025.csv</td><td class='num'>1224</td><td class='num'>63</td><td class='num'>44</td><td class='num'>16</td><td class='num'>3</td></tr>
+<tr><td>2025/26</td><td>2</td><td>Second-Quarter-July-2025-September-2025.csv</td><td class='num'>1196</td><td class='num'>89</td><td class='num'>61</td><td class='num'>25</td><td class='num'>3</td></tr>
+<tr><td colspan='3'>Total</td><td class='num'>22832</td><td class='num'>786</td><td class='num'>488</td><td class='num'>212</td><td class='num'>86</td></tr>
+</tbody></table>
+<p class='note'>Files that were never republished are not in these two tables. From 2025/26 Q3 onward there is only one published file, and those files do contain numbers shared by different suppliers: four in 2025/26 Q3, none in 2025/26 Q4, and six in 2026/27 Q1.</p>
+</body></html>

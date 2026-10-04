@@ -1,0 +1,111 @@
+financial_year,quarter,transaction_no,original_purpose,corrected_purpose,original_service_area,corrected_service_area,original_supplier,corrected_supplier,original_doc_date,corrected_doc_date,original_amount,corrected_amount,amount_delta
+2020/21,1,300000006,Fees - Legal,Fees,Grant Management & Assurance,Grant Management & Assurance,Paul Brown of Landmark Chambers,CLOSED Paul Brown of Landmark Chambers,2020-05-14,2020-05-14,2000.00,2000.00,0.00
+2020/21,1,300000009,Grants - General,Grants,People & Skills,Employment & Skills,KIDDERMINSTER COLLEGE,CLOSED KIDDERMINSTER COLLEGE,2020-05-14,2020-05-14,26038.87,26038.87,0.00
+2020/21,1,300000013,Grants - General,Grants,People & Skills,Employment & Skills,N-GAGED TRAINING & RECRUITMENT LTD,CLOSED N-GAGED TRAINING & RECRUITMENT LTD,2020-05-14,2020-05-14,25774.23,25774.23,0.00
+2020/21,1,300000019,Grants - General,Grants,People & Skills,Employment & Skills,DERBY COLLEGE,CLOSED DERBY COLLEGE,2020-05-14,2020-05-14,3376.24,3376.24,0.00
+2020/21,1,300000020,Grants - General,Grants,People & Skills,Employment & Skills,CORNWALL COLLEGE,CLOSED CORNWALL COLLEGE,2020-05-14,2020-05-14,8161.47,8161.47,0.00
+2020/21,1,300000022,Grants - General,Grants,People & Skills,Employment & Skills,NEW COLLEGE SWINDON,CLOSED NEW COLLEGE SWINDON,2020-05-14,2020-05-14,2977.64,2977.64,0.00
+2020/21,1,300000023,Grants - General,Grants,People & Skills,Employment & Skills,SWINDON COLLEGE CORPORATION,CLOSED SWINDON COLLEGE CORPORATION,2020-05-14,2020-05-14,3052.99,3052.99,0.00
+2020/21,1,300000024,Grants - General,Grants,People & Skills,Employment & Skills,TEMPLEGATE TRAINING ACADEMY CIC,CLOSED TEMPLEGATE TRAINING ACADEMY CIC,2020-05-14,2020-05-14,3855.70,3855.70,0.00
+2020/21,1,300000025,Grants - General,Grants,People & Skills,Employment & Skills,LONDON LEARNING CONSORTIUM,CLOSED LONDON LEARNING CONSORTIUM,2020-05-14,2020-05-14,762.69,762.69,0.00
+2020/21,1,300000027,Grants - General,Grants,People & Skills,Employment & Skills,SHREWSBURY COLLEGES GROUP,CLOSED SHREWSBURY COLLEGES GROUP,2020-05-14,2020-05-14,6205.84,6205.84,0.00
+2020/21,1,300000028,Grants - General,Grants,People & Skills,Employment & Skills,BABINGTON BUSINESS COLLEGE LIMITED,CLOSED BABINGTON BUSINESS COLLEGE LIMITED,2020-05-14,2020-05-14,1732.64,1732.64,0.00
+2020/21,1,300000029,Grants - General,Grants,People & Skills,Employment & Skills,LEARNING CURVE GROUP LTD,CLOSED LEARNING CURVE GROUP LTD,2020-05-14,2020-05-14,2099.48,2099.48,0.00
+2020/21,1,300000030,Grants - General,Grants,People & Skills,Employment & Skills,RNN GROUP,CLOSED RNN GROUP,2020-05-14,2020-05-14,1772.25,1772.25,0.00
+2020/21,1,300000032,Grants - General,Grants,People & Skills,Employment & Skills,CJI SOLUTIONS LTD T/A LOCAL LEARNING,CLOSED CJI SOLUTIONS LTD T/A LOCAL LEARNING,2020-05-14,2020-05-14,10462.49,10462.49,0.00
+2020/21,1,300000033,Grants - General,Grants,People & Skills,Employment & Skills,TELFORD COLLEGE,CLOSED TELFORD COLLEGE,2020-05-14,2020-05-14,1928.36,1928.36,0.00
+2020/21,1,300000034,Grants - General,Grants,People & Skills,Employment & Skills,PETROC,CLOSED PETROC,2020-05-14,2020-05-14,3077.70,3077.70,0.00
+2020/21,1,300000039,Fees - Legal,Fees,Integrated Transport Authority,Integrated Transport,Redacted - Sole Trader,CLOSED FRANCIS TAYLOR BUILDING,2020-05-19,2020-05-19,2750.00,2750.00,0.00
+2020/21,1,300000047,Seconded Staff Costs - Salary Costs,Seconded Staff,Sector Development & Innovation,Intergrated Delivery,BRISTOL FUTURES GLOBAL LTD,CLOSED BRISTOL FUTURES GLOBAL LTD,2020-05-20,2020-05-20,2478.00,2478.00,0.00
+2020/21,1,300000049,Consultants - Other,Consultants,Sector Development & Innovation,Strategy - Management,Redacted - Sole Trader,CLOSED Bill Sharpe Research,2020-05-20,2020-05-20,5168.25,5168.25,0.00
+2020/21,1,300000055,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Arleen Coach Hire and Services Ltd,CLOSED Arleen Coach Hire and Services Ltd,2020-05-20,2020-05-20,1412.46,1412.46,0.00
+2020/21,1,300000056,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Eurotaxis Ltd,EUROCOACHES LTD,2020-05-20,2020-05-20,665.05,665.05,0.00
+2020/21,1,300000077,Consultants - Project Based Work,Consultants,Housing & Planning,Strategy,Avison Young (UK) Ltd,CLOSED Avison Young (UK) Ltd,2020-05-22,2020-05-22,5500.00,5500.00,0.00
+2020/21,1,300000102,Consultants - Project Based Work,Consultants,Integrated Transport Authority,Integrated Transport,CH2M HILL UNITED KINGDOM,JACOBS UK LIMITED,2020-05-22,2020-05-22,9018.00,9018.00,0.00
+2020/21,1,300000137,Grants - General,Grants,People & Skills,Employment & Skills,CENTRE FOR AGEING BETTER LIMITED,CLOSED CENTRE FOR AGEING BETTER LIMITED,2020-06-04,2020-06-04,5000.00,5000.00,0.00
+2020/21,1,300000144,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Faresaver Buses,Faresaver Ltd,2020-06-05,2020-06-05,9795.91,9795.91,0.00
+2020/21,1,300000145,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Eurotaxis Ltd,EUROCOACHES LTD,2020-06-05,2020-06-05,643.84,643.84,0.00
+2020/21,1,300000148,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Arleen Coach Hire and Services Ltd,CLOSED Arleen Coach Hire and Services Ltd,2020-06-05,2020-06-05,1307.88,1307.88,0.00
+2020/21,1,300000154,Electricity Charges,Electricity,Corporate Services,Executive Office,DTZ CLIENT ACC,CWDTL LTD CLIENT AC RE NT COMMON RECEIPTS,2020-06-04,2020-06-04,1053.33,1053.33,0.00
+2020/21,1,300000159,Insurance - All Risks,Insurance,Corporate Services,Executive Office,DTZ CLIENT ACC,CWDTL LTD CLIENT AC RE NT COMMON RECEIPTS,2020-06-04,2020-06-04,4426.71,4426.71,0.00
+2020/21,1,300000247,Grants - General,Grants,Strategy & Policy,Low Carbon & Net Zero,Haberton & Harbertonford Community Land Trust CIC,CLOSED Haberton & Harbertonford Community Land Trust CIC,2020-06-15,2020-06-15,4392.50,4392.50,0.00
+2020/21,1,300000252,Electricity Charges,Electricity,Corporate Services,Executive Office,DTZ CLIENT ACC,CWDTL LTD CLIENT AC RE NT COMMON RECEIPTS,2020-06-16,2020-06-16,1690.52,1690.52,0.00
+2020/21,1,300000253,Consultants - Project Based Work,Consultants,Strategy & Policy,Low Carbon & Net Zero,Clean Earth Energy Ltd,CLOSED Clean Earth Energy Ltd,2020-06-16,2020-06-16,5000.00,5000.00,0.00
+2020/21,1,300000284,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Carmel Bristol,CLOSED Carmel Bristol,2020-06-11,2020-06-11,1226.79,1226.79,0.00
+2020/21,1,300000286,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2020-06-11,2020-06-11,932.55,932.55,0.00
+2020/21,1,300000288,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Faresaver Buses,Faresaver Ltd,2020-06-11,2020-06-11,9369.76,9369.76,0.00
+2020/21,1,300000290,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,HCT Group Operations CIC - PREVIOUSLY CT PLUS,CLOSED HCT Group Operations Community Interest Company - in Administration,2020-06-11,2020-06-11,10807.54,10807.54,0.00
+2020/21,1,300000297,Grants - General,Grants,People & Skills,Employment & Skills,TEMPLEGATE TRAINING ACADEMY CIC,CLOSED TEMPLEGATE TRAINING ACADEMY CIC,2020-06-11,2020-06-11,3285.47,3285.47,0.00
+2020/21,1,300000298,Grants - General,Grants,People & Skills,Employment & Skills,KIDDERMINSTER COLLEGE,CLOSED KIDDERMINSTER COLLEGE,2020-06-11,2020-06-11,22187.87,22187.87,0.00
+2020/21,1,300000299,Grants - General,Grants,People & Skills,Employment & Skills,N-GAGED TRAINING & RECRUITMENT LTD,CLOSED N-GAGED TRAINING & RECRUITMENT LTD,2020-06-11,2020-06-11,21962.37,21962.37,0.00
+2020/21,1,300000303,Grants - General,Grants,People & Skills,Employment & Skills,CORNWALL COLLEGE,CLOSED CORNWALL COLLEGE,2020-06-11,2020-06-11,6954.43,6954.43,0.00
+2020/21,1,300000304,Grants - General,Grants,People & Skills,Employment & Skills,DERBY COLLEGE,CLOSED DERBY COLLEGE,2020-06-11,2020-06-11,2876.92,2876.92,0.00
+2020/21,1,300000305,Grants - General,Grants,People & Skills,Employment & Skills,PETROC,CLOSED PETROC,2020-06-11,2020-06-11,2622.53,2622.53,0.00
+2020/21,1,300000306,Grants - General,Grants,People & Skills,Employment & Skills,SWINDON COLLEGE CORPORATION,CLOSED SWINDON COLLEGE CORPORATION,2020-06-11,2020-06-11,2601.47,2601.47,0.00
+2020/21,1,300000307,Grants - General,Grants,People & Skills,Employment & Skills,SHREWSBURY COLLEGES GROUP,CLOSED SHREWSBURY COLLEGES GROUP,2020-06-11,2020-06-11,5288.03,5288.03,0.00
+2020/21,1,300000308,Grants - General,Grants,People & Skills,Employment & Skills,CJI SOLUTIONS LTD T/A LOCAL LEARNING,CLOSED CJI SOLUTIONS LTD T/A LOCAL LEARNING,2020-06-11,2020-06-11,8915.15,8915.15,0.00
+2020/21,1,300000311,Grants - General,Grants,People & Skills,Employment & Skills,NEW COLLEGE SWINDON,CLOSED NEW COLLEGE SWINDON,2020-06-11,2020-06-11,2537.27,2537.27,0.00
+2020/21,1,300000312,Grants - General,Grants,People & Skills,Employment & Skills,LEARNING CURVE GROUP LTD,CLOSED LEARNING CURVE GROUP LTD,2020-06-11,2020-06-11,1788.98,1788.98,0.00
+2020/21,1,300000313,Grants - General,Grants,People & Skills,Employment & Skills,TELFORD COLLEGE,CLOSED TELFORD COLLEGE,2020-06-11,2020-06-11,1643.17,1643.17,0.00
+2020/21,1,300000314,Grants - General,Grants,People & Skills,Employment & Skills,RNN GROUP,CLOSED RNN GROUP,2020-06-11,2020-06-11,1510.15,1510.15,0.00
+2020/21,1,300000315,Grants - General,Grants,People & Skills,Employment & Skills,BABINGTON BUSINESS COLLEGE LIMITED,CLOSED BABINGTON BUSINESS COLLEGE LIMITED,2020-06-11,2020-06-11,1476.39,1476.39,0.00
+2020/21,1,300000317,Grants - General,Grants,People & Skills,Employment & Skills,LONDON LEARNING CONSORTIUM,CLOSED LONDON LEARNING CONSORTIUM,2020-06-11,2020-06-11,649.89,649.89,0.00
+2020/21,1,300000328,Strategy,Digital,"Enterprise, Investment & Trade","Enterprise, Inward Investment & Trade",FELINESOFT LTD,CLOSED CLEARCOURSE MEMBERSHIP SERVICES LTD (FELINESOFT),2020-06-16,2020-06-16,1140.00,1140.00,0.00
+2020/21,1,300000332,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Carmel Bristol,CLOSED Carmel Bristol,2020-06-09,2020-06-09,1313.50,1313.50,0.00
+2020/21,1,300000333,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2020-06-09,2020-06-09,932.55,932.55,0.00
+2020/21,1,300000334,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,HCT Group Operations CIC - PREVIOUSLY CT PLUS,CLOSED HCT Group Operations Community Interest Company - in Administration,2020-06-09,2020-06-09,10781.20,10781.20,0.00
+2020/21,1,300000335,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Carmel Bristol,CLOSED Carmel Bristol,2020-06-09,2020-06-09,1318.11,1318.11,0.00
+2020/21,1,300000336,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2020-06-09,2020-06-09,932.55,932.55,0.00
+2020/21,1,300000337,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,HCT Group Operations CIC - PREVIOUSLY CT PLUS,CLOSED HCT Group Operations Community Interest Company - in Administration,2020-06-09,2020-06-09,11029.73,11029.73,0.00
+2020/21,1,300000340,Consultants - Specialist Advice,Consultants,Corporate Services,Financial Services,CIPFA BUSINESS LIMITED,CIPFA BUSINESS LIMITED (FOR CONSULTANCY),2020-06-02,2020-06-02,650.00,650.00,0.00
+2020/21,1,300000341,Grants - General,Grants,Sector Development & Innovation,Creative & Culture Economy,Crack Industries Ltd,CLOSED Crack Industries Ltd,2020-06-02,2020-06-02,2387.50,2387.50,0.00
+2020/21,1,300000345,Grants - General,Grants,Sector Development & Innovation,Creative & Culture Economy,Waller and Wood,CLOSED No Walking Canvas Ltd t/a Waller and Wood,2020-06-04,2020-06-04,1700.00,1700.00,0.00
+2020/21,1,300000346,Fees - Legal,Fees,Housing & Planning,Homes & Regeneration,Paul Brown of Landmark Chambers,CLOSED Paul Brown of Landmark Chambers,2020-06-05,2020-06-05,800.00,800.00,0.00
+2020/21,1,300000353,Seconded Staff Costs - Salary Costs,Seconded Staff,Sector Development & Innovation,Intergrated Delivery,BRISTOL FUTURES GLOBAL LTD,CLOSED BRISTOL FUTURES GLOBAL LTD,2020-06-09,2020-06-09,1800.00,1800.00,0.00
+2020/21,1,300000355,Grants - General,Grants,Sector Development & Innovation,Creative & Culture Economy,Visuable Ltd,CLOSED Visuable Ltd,2020-06-09,2020-06-09,800.00,800.00,0.00
+2020/21,1,300000356,Grants - General,Grants,Sector Development & Innovation,Creative & Culture Economy,TRIGGER STUFF CIC,CLOSED TRIGGER STUFF CIC,2020-06-09,2020-06-09,1367.50,1367.50,0.00
+2020/21,1,300000357,Consultants - Specialist Advice,Consultants,"Enterprise, Investment & Trade","Enterprise, Inward Investment & Trade",SPARK SOUTH WEST LTD,SPARK SOUTH WEST,2020-06-09,2020-06-09,1000.00,1000.00,0.00
+2020/21,1,900000040,Grants - General,Grants,Sector Development & Innovation,Creative & Culture Economy,LIMINA IMMERSIVE LIMITED,CLOSED LIMINA IMMERSIVE LIMITED,2020-06-11,2020-06-11,3534.38,3534.38,0.00
+2020/21,1,900000049,Grants - General,Grants,People & Skills,Employment & Skills,CATHEDRAL SCHOOLS TRUST,CLOSED CATHEDRAL SCHOOLS TRUST,2020-06-11,2020-06-11,1000.00,1000.00,0.00
+2020/21,1,900000051,Grants - General,Grants,People & Skills,Employment & Skills,BABINGTON BUSINESS COLLEGE LIMITED,CLOSED BABINGTON BUSINESS COLLEGE LIMITED,2020-06-11,2020-06-11,2153.49,2153.49,0.00
+2020/21,1,900000052,Grants - General,Grants,People & Skills,Employment & Skills,CORNWALL COLLEGE,CLOSED CORNWALL COLLEGE,2020-06-11,2020-06-11,10143.88,10143.88,0.00
+2020/21,1,900000053,Grants - General,Grants,People & Skills,Employment & Skills,NATIONAL STAR FOUNDATION,CLOSED NATIONAL STAR FOUNDATION,2020-06-11,2020-06-11,596.68,596.68,0.00
+2020/21,1,900000054,Grants - General,Grants,People & Skills,Employment & Skills,NEW COLLEGE SWINDON,CLOSED NEW COLLEGE SWINDON,2020-06-11,2020-06-11,3700.91,3700.91,0.00
+2020/21,1,900000056,Grants - General,Grants,People & Skills,Employment & Skills,SHREWSBURY COLLEGES GROUP,CLOSED SHREWSBURY COLLEGES GROUP,2020-06-11,2020-06-11,7713.24,7713.24,0.00
+2020/21,1,900000057,Grants - General,Grants,People & Skills,Employment & Skills,SWINDON COLLEGE CORPORATION,CLOSED SWINDON COLLEGE CORPORATION,2020-06-11,2020-06-11,3794.56,3794.56,0.00
+2020/21,1,900000060,Grants - General,Grants,People & Skills,Employment & Skills,DERBY COLLEGE,CLOSED DERBY COLLEGE,2020-06-11,2020-06-11,4196.33,4196.33,0.00
+2020/21,1,900000062,Grants - General,Grants,People & Skills,Employment & Skills,LEARNING CURVE GROUP LTD,CLOSED LEARNING CURVE GROUP LTD,2020-06-11,2020-06-11,2609.44,2609.44,0.00
+2020/21,1,900000063,Grants - General,Grants,People & Skills,Employment & Skills,LONDON LEARNING CONSORTIUM,CLOSED LONDON LEARNING CONSORTIUM,2020-06-11,2020-06-11,947.94,947.94,0.00
+2020/21,1,900000064,Grants - General,Grants,People & Skills,Employment & Skills,KIDDERMINSTER COLLEGE,CLOSED KIDDERMINSTER COLLEGE,2020-06-11,2020-06-11,32363.69,32363.69,0.00
+2020/21,1,900000065,Grants - General,Grants,People & Skills,Employment & Skills,N-GAGED TRAINING & RECRUITMENT LTD,CLOSED N-GAGED TRAINING & RECRUITMENT LTD,2020-06-11,2020-06-11,32034.76,32034.76,0.00
+2020/21,1,900000066,Grants - General,Grants,People & Skills,Employment & Skills,RNN GROUP,CLOSED RNN GROUP,2020-06-11,2020-06-11,2202.73,2202.73,0.00
+2020/21,1,900000067,Grants - General,Grants,People & Skills,Employment & Skills,TEMPLEGATE TRAINING ACADEMY CIC,CLOSED TEMPLEGATE TRAINING ACADEMY CIC,2020-06-11,2020-06-11,4792.25,4792.25,0.00
+2020/21,1,900000069,Grants - General,Grants,People & Skills,Employment & Skills,PETROC,CLOSED PETROC,2020-06-11,2020-06-11,3825.27,3825.27,0.00
+2020/21,1,900000070,Grants - General,Grants,People & Skills,Employment & Skills,CJI SOLUTIONS LTD T/A LOCAL LEARNING,CLOSED CJI SOLUTIONS LTD T/A LOCAL LEARNING,2020-06-11,2020-06-11,13003.82,13003.82,0.00
+2020/21,1,900000071,Grants - General,Grants,People & Skills,Employment & Skills,TELFORD COLLEGE,CLOSED TELFORD COLLEGE,2020-06-11,2020-06-11,2396.76,2396.76,0.00
+2020/21,1,900000075,Grants - General,Grants,Sector Development & Innovation,Low Carbon & Net Zero,TVNET LIMITED,CLOSED - TVNET LIMITED,2020-06-11,2020-06-11,15000.00,15000.00,0.00
+2020/21,1,900000076,Grants - General,Grants,People & Skills,Employment & Skills,MIDSOMER NORTON SCHOOLS PARTNERSHIP SOMERVALE SCHOOL,CLOSED - MIDSOMER NORTON SCHOOLS PARTNERSHIP SOMERVALE SCHOOL,2020-06-11,2020-06-11,1000.00,1000.00,0.00
+2020/21,1,900000077,Grants - General,Grants,Sector Development & Innovation,Low Carbon & Net Zero,MAGNUS SERVICES LIMITED,CLOSED - MAGNUS SERVICES LIMITED,2020-06-11,2020-06-11,4322.00,4322.00,0.00
+2020/21,1,900000078,Grants - General,Grants,Sector Development & Innovation,Low Carbon & Net Zero,PENTAGON SPORT SOUTH LTD,CLOSED - PENTAGON SPORT SOUTH LTD,2020-06-11,2020-06-11,3420.75,3420.75,0.00
+2020/21,1,900000079,Grants - General,Grants,Sector Development & Innovation,Low Carbon & Net Zero,BRISTOL SPACEWORKS,BRISTOL SPACEWORKS LTD,2020-06-11,2020-06-11,5682.40,5682.40,0.00
+2020/21,1,900000080,Grants - General,Grants,Sector Development & Innovation,Low Carbon & Net Zero,GRAND PIER LTD,CLOSED - GRAND PIER LTD,2020-06-11,2020-06-11,15000.00,15000.00,0.00
+2020/21,1,900000081,Consultants - Project Based Work,Consultants,Strategy & Policy,Nature Recovery & Climate Strategy,SWINDON & WILTSHIRE LOCAL ENTERPRISE PARTNERSHIP LTD,CLOSED - SWINDON & WILTSHIRE LOCAL ENTERPRISE PARTNERSHIP LTD,2020-06-11,2020-06-11,2500.00,2500.00,0.00
+2020/21,1,900000082,Grants - General,Grants,People & Skills,Employment & Skills,LEARN @ MAT,CLOSED - LEARN @ MAT,2020-06-11,2020-06-11,1000.00,1000.00,0.00
+2020/21,1,900000083,Grants - General,Grants,People & Skills,Employment & Skills,ST MARKS SCHOOL,CLOSED - ST MARKS SCHOOL,2020-06-11,2020-06-11,1000.00,1000.00,0.00
+2020/21,1,900000084,Transport Operators - Community Transport,Transport Operators,Integrated Transport Authority,Integrated Transport,Social Access Ltd,CLOSED - Social Access Ltd,2020-06-11,2020-06-11,53192.25,53192.25,0.00
+2020/21,1,900000094,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Coachstyle Ltd,CLOSED Coachstyle Ltd,2020-06-11,2020-06-11,5791.76,5791.76,0.00
+2020/21,1,900000098,Transport Operators - Concessionary Fares,Transport Operators,Integrated Transport Authority,Integrated Transport,Faresaver Buses,Faresaver Ltd,2020-06-11,2020-06-11,9477.68,9477.68,0.00
+2020/21,1,900000101,Transport Operators - Community Transport,Transport Operators,Integrated Transport Authority,Integrated Transport,Bristol Community Transport,CLOSED Bristol Community Transport,2020-06-11,2020-06-11,50400.00,50400.00,0.00
+2020/21,1,900000127,Consultants - Project Based Work,Consultants,Housing & Planning,Homes & Regeneration,ATKINS LIMITED,AtkinsRéalis UK Limited,2020-06-11,2020-06-11,955.00,955.00,0.00
+2020/21,1,900000128,Consultants - Project Based Work,Consultants,Corporate Services,Financial Services,CIPFA BUSINESS LIMITED,CIPFA BUSINESS LIMITED (FOR CONSULTANCY),2020-06-11,2020-06-11,1218.75,1218.75,0.00
+2020/21,1,900000132,Electricity Charges,Electricity,Corporate Services,Executive Office,DTZ CLIENT ACC,CWDTL LTD CLIENT AC RE NT COMMON RECEIPTS,2020-06-11,2020-06-11,1654.21,1654.21,0.00
+2020/21,1,900000135,Agency Costs - Temporary Staff,Agency staff,Strategy & Policy,Strategy,OMNIGENIX,OMNIGENIX (NICHOLAS STURGE T/A),2020-06-11,2020-06-11,3080.00,3080.00,0.00
+2020/21,1,900000136,Seconded Staff Costs - Salary Costs,Seconded Staff,Strategy & Policy,Strategy,OMNIGENIX,OMNIGENIX (NICHOLAS STURGE T/A),2020-06-11,2020-06-11,3135.00,3135.00,0.00
+2020/21,1,900000139,Seconded Staff Costs - Salary Costs,Seconded Staff,Business & Skills,Economy & Skills Management,BRISTOL FUTURES GLOBAL LTD,CLOSED BRISTOL FUTURES GLOBAL LTD,2020-06-11,2020-06-11,4458.00,4458.00,0.00
+2020/21,1,900000142,Consultants - Specialist Advice,Consultants,"Enterprise, Investment & Trade","Enterprise, Inward Investment & Trade",WATERCRESS 34 LTD,CLOSED - WATERCRESS 34 LTD,2020-06-11,2020-06-11,5720.00,5720.00,0.00
+2020/21,1,900000144,Fees - Subscriptions,Fees,"Enterprise, Investment & Trade","Enterprise, Inward Investment & Trade",REED BUSINESS INFORMATION LTD,LNRS DATA SERVICES LTD,2020-06-11,2020-06-11,6300.00,6300.00,0.00
+2020/21,1,900000145,Seconded Staff Costs - Salary Costs,Seconded Staff,Strategy & Policy,Strategy,BUILDING RESEARCH ESTABLISHMENT LTD,CLOSED BUILDING RESEARCH ESTABLISHMENT LTD,2020-06-11,2020-06-11,7197.54,7197.54,0.00
+2020/21,1,900000147,Consultants - Project Based Work,Consultants,Strategy & Policy,Creative & Culture Economy,INTELLIGENCE AGENCY LTD,CLOSED INTELLIGENCE AGENCY LTD,2020-06-11,2020-06-11,7500.00,7500.00,0.00
+2020/21,1,900000150,Seconded Staff Costs - Salary Costs,Seconded Staff,Integrated Transport Authority,Integrated Transport,CH2M HILL UNITED KINGDOM,JACOBS UK LIMITED,2020-06-11,2020-06-11,9934.45,9934.45,0.00
+2020/21,1,900000151,Agency Costs - Temporary Staff,Agency staff,Strategy & Policy,Strategy,OMNIGENIX,OMNIGENIX (NICHOLAS STURGE T/A),2020-06-11,2020-06-11,10000.00,10000.00,0.00
+2020/21,1,900000153,Consultants - Project Based Work,Consultants,Housing & Planning,Strategy,Avison Young (UK) Ltd,CLOSED Avison Young (UK) Ltd,2020-06-11,2020-06-11,12000.00,12000.00,0.00

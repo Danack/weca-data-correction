@@ -1,0 +1,920 @@
+{
+  "id": "other-local-authorities",
+  "title": "Other local authorities",
+  "note": "Added payments whose purpose is Other Local Authorities, mostly to Bath and North East Somerset, South Gloucestershire, Bristol, and North Somerset.",
+  "kind": "added",
+  "members": [
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000799",
+      "date": "2020-08-19",
+      "amount": "188356.96",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000804",
+      "date": "2020-08-19",
+      "amount": "23148.49",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000906",
+      "date": "2020-09-07",
+      "amount": "300000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000941",
+      "date": "2020-08-20",
+      "amount": "83281.85",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001047",
+      "date": "2020-09-23",
+      "amount": "10000.00",
+      "supplier": "Bath and West Comunity Energy Ltd"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001221",
+      "date": "2020-10-12",
+      "amount": "9283.40",
+      "supplier": "CLOSED Oaksey Parish Council"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001294",
+      "date": "2020-10-19",
+      "amount": "56198.00",
+      "supplier": "WESTON COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001311",
+      "date": "2020-10-22",
+      "amount": "30000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001413",
+      "date": "2020-11-03",
+      "amount": "36092.80",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001417",
+      "date": "2020-11-03",
+      "amount": "4895.04",
+      "supplier": "WEST OF ENGLAND RURAL NETWORK"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001478",
+      "date": "2020-11-09",
+      "amount": "46229.18",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001661",
+      "date": "2020-12-07",
+      "amount": "112690.32",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001976",
+      "date": "2021-01-14",
+      "amount": "183632.60",
+      "supplier": "UNIVERSITY OF BRISTOL (NATIONAL COMPOSITES CENTRE)"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001977",
+      "date": "2021-01-14",
+      "amount": "894.90",
+      "supplier": "UNIVERSITY OF BRISTOL (NATIONAL COMPOSITES CENTRE)"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001977",
+      "date": "2021-01-14",
+      "amount": "178795.23",
+      "supplier": "UNIVERSITY OF BRISTOL (NATIONAL COMPOSITES CENTRE)"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002211",
+      "date": "2021-02-05",
+      "amount": "2940.00",
+      "supplier": "CLOSED - THE SOUTH WEST FOOD HUB COMMUNITY INTEREST COMPANY"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002223",
+      "date": "2021-02-08",
+      "amount": "2878.00",
+      "supplier": "WEST OF ENGLAND RURAL NETWORK"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002295",
+      "date": "2021-02-12",
+      "amount": "15000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002322",
+      "date": "2021-02-19",
+      "amount": "11231.24",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002324",
+      "date": "2021-02-19",
+      "amount": "25419.06",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002686",
+      "date": "2021-03-24",
+      "amount": "105148.56",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002810",
+      "date": "2021-04-09",
+      "amount": "80000.00",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002958",
+      "date": "2021-04-20",
+      "amount": "6280.00",
+      "supplier": "CLOSED - THE SOUTH WEST FOOD HUB COMMUNITY INTEREST COMPANY"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002994",
+      "date": "2021-04-27",
+      "amount": "9582.90",
+      "supplier": "UNIVERSITY OF BRISTOL (NATIONAL COMPOSITES CENTRE)"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002994",
+      "date": "2021-04-27",
+      "amount": "393569.45",
+      "supplier": "UNIVERSITY OF BRISTOL (NATIONAL COMPOSITES CENTRE)"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003102",
+      "date": "2021-04-09",
+      "amount": "29974.54",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003147",
+      "date": "2021-05-19",
+      "amount": "4335.55",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003331",
+      "date": "2021-06-16",
+      "amount": "39469.47",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003332",
+      "date": "2021-06-16",
+      "amount": "11582.61",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003333",
+      "date": "2021-06-16",
+      "amount": "1942.82",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003350",
+      "date": "2021-06-17",
+      "amount": "91995.00",
+      "supplier": "WESTON COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003364",
+      "date": "2021-06-21",
+      "amount": "47665.50",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "900000364",
+      "date": "2021-07-12",
+      "amount": "653.98",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "900000369",
+      "date": "2021-07-12",
+      "amount": "653.98",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "900000676",
+      "date": "2021-08-16",
+      "amount": "707.48",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "900000764",
+      "date": "2021-09-13",
+      "amount": "642.91",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000810",
+      "date": "2021-10-04",
+      "amount": "10915.19",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000865",
+      "date": "2021-10-18",
+      "amount": "614.32",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000911",
+      "date": "2021-11-15",
+      "amount": "39000.07",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000939",
+      "date": "2021-11-24",
+      "amount": "737.92",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000973",
+      "date": "2021-12-13",
+      "amount": "798.80",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005391",
+      "date": "2022-03-17",
+      "amount": "20000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005407",
+      "date": "2022-03-18",
+      "amount": "20000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001050",
+      "date": "2022-01-17",
+      "amount": "760.06",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001111",
+      "date": "2022-02-08",
+      "amount": "57810.80",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001128",
+      "date": "2022-02-18",
+      "amount": "2864.08",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001165",
+      "date": "2022-03-14",
+      "amount": "781.27",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005810",
+      "date": "2022-05-03",
+      "amount": "27450.00",
+      "supplier": "CLOSED Haberton & Harbertonford Community Land Trust CIC"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001323",
+      "date": "2022-04-25",
+      "amount": "938.08",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001387",
+      "date": "2022-05-23",
+      "amount": "775.74",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001420",
+      "date": "2022-06-01",
+      "amount": "61950.59",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001469",
+      "date": "2022-06-13",
+      "amount": "814.48",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001574",
+      "date": "2022-07-19",
+      "amount": "767.44",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001667",
+      "date": "2022-08-16",
+      "amount": "506.40",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001669",
+      "date": "2022-08-16",
+      "amount": "804.33",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001718",
+      "date": "2022-09-06",
+      "amount": "89991.90",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001760",
+      "date": "2022-09-27",
+      "amount": "752.68",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001836",
+      "date": "2022-10-25",
+      "amount": "691.80",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001886",
+      "date": "2022-11-17",
+      "amount": "755.45",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001959",
+      "date": "2022-12-19",
+      "amount": "2226.68",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008868",
+      "date": "2023-03-17",
+      "amount": "734.96",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002001",
+      "date": "2023-01-10",
+      "amount": "848.61",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002003",
+      "date": "2023-01-10",
+      "amount": "1749.79",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002136",
+      "date": "2023-02-20",
+      "amount": "1498.91",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002191",
+      "date": "2023-03-20",
+      "amount": "1704.60",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009076",
+      "date": "2023-03-28",
+      "amount": "73441.54",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002278",
+      "date": "2023-04-17",
+      "amount": "1653.87",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002450",
+      "date": "2023-06-13",
+      "amount": "1642.50",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002518",
+      "date": "2023-07-10",
+      "amount": "1037.85",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002520",
+      "date": "2023-07-10",
+      "amount": "2158.75",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002535",
+      "date": "2023-07-10",
+      "amount": "1037.85",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002547",
+      "date": "2023-08-07",
+      "amount": "519.48",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002549",
+      "date": "2023-08-07",
+      "amount": "1270.00",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002607",
+      "date": "2023-09-11",
+      "amount": "559.44",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002609",
+      "date": "2023-09-11",
+      "amount": "1731.25",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002708",
+      "date": "2023-10-16",
+      "amount": "828.75",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002816",
+      "date": "2023-11-07",
+      "amount": "1045.62",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002818",
+      "date": "2023-11-07",
+      "amount": "2157.50",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002875",
+      "date": "2023-12-18",
+      "amount": "519.48",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002877",
+      "date": "2023-12-18",
+      "amount": "1781.25",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002955",
+      "date": "2024-01-22",
+      "amount": "1565.00",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003023",
+      "date": "2024-02-12",
+      "amount": "508.38",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003025",
+      "date": "2024-02-12",
+      "amount": "1342.50",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003098",
+      "date": "2024-03-11",
+      "amount": "1506.25",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013767",
+      "date": "2024-05-07",
+      "amount": "3648.24",
+      "supplier": "BOURNEMOUTH, CHRISTCHURCH AND POOLE COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003200",
+      "date": "2024-04-24",
+      "amount": "4226.79",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003202",
+      "date": "2024-04-24",
+      "amount": "959.86",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003354",
+      "date": "2024-06-03",
+      "amount": "3895.47",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003356",
+      "date": "2024-06-03",
+      "amount": "1629.87",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003400",
+      "date": "2024-06-17",
+      "amount": "716.92",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003402",
+      "date": "2024-06-17",
+      "amount": "1289.33",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003478",
+      "date": "2024-07-15",
+      "amount": "2191.44",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003480",
+      "date": "2024-07-15",
+      "amount": "1143.56",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003549",
+      "date": "2024-08-13",
+      "amount": "2289.28",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003551",
+      "date": "2024-08-13",
+      "amount": "2092.51",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003609",
+      "date": "2024-09-16",
+      "amount": "2405.88",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003611",
+      "date": "2024-09-16",
+      "amount": "1524.64",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003785",
+      "date": "2024-10-14",
+      "amount": "2099.15",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003787",
+      "date": "2024-10-14",
+      "amount": "1335.05",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003867",
+      "date": "2024-11-18",
+      "amount": "2291.56",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003869",
+      "date": "2024-11-18",
+      "amount": "1805.19",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003921",
+      "date": "2024-12-09",
+      "amount": "1760.00",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003923",
+      "date": "2024-12-09",
+      "amount": "1024.57",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "900003990",
+      "date": "2025-01-13",
+      "amount": "2015.04",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "900003992",
+      "date": "2025-01-13",
+      "amount": "2564.67",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "900004093",
+      "date": "2025-02-17",
+      "amount": "2025.12",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "900004095",
+      "date": "2025-02-17",
+      "amount": "1626.99",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "900004154",
+      "date": "2025-03-17",
+      "amount": "1149.94",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "900004156",
+      "date": "2025-03-17",
+      "amount": "1501.20",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "900004229",
+      "date": "2025-04-15",
+      "amount": "6291.08",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "900004231",
+      "date": "2025-04-15",
+      "amount": "1698.25",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "900004336",
+      "date": "2025-05-19",
+      "amount": "739.02",
+      "supplier": "SOMERSET COUNCIL"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "900004338",
+      "date": "2025-05-19",
+      "amount": "1602.85",
+      "supplier": "Wiltshire Council"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "900004411",
+      "date": "2025-06-09",
+      "amount": "1601.96",
+      "supplier": "Wiltshire Council"
+    }
+  ]
+}

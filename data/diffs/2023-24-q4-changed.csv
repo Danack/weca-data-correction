@@ -1,0 +1,66 @@
+financial_year,quarter,transaction_no,original_purpose,corrected_purpose,original_service_area,corrected_service_area,original_supplier,corrected_supplier,original_doc_date,corrected_doc_date,original_amount,corrected_amount,amount_delta
+2023/24,4,300011819,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Rowe IT,CACI Ltd (formerly Rowe IT),2023-12-05,2023-12-05,49689.39,49689.39,0.00
+2023/24,4,300011936,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,3267.45,3267.45,0.00
+2023/24,4,300011936,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,4901.18,4901.18,0.00
+2023/24,4,300011937,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,3945.60,3945.60,0.00
+2023/24,4,300011937,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,5918.40,5918.40,0.00
+2023/24,4,300011938,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,1294.65,1294.65,0.00
+2023/24,4,300011938,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,1941.98,1941.98,0.00
+2023/24,4,300011939,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,3945.60,1103.16,-2842.44
+2023/24,4,300011939,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,4815.24,3945.60,-869.64
+2023/24,4,300011939,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,1103.16,4815.24,3712.08
+2023/24,4,300011944,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,3151.00,3151.00,0.00
+2023/24,4,300011944,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2023-12-15,2023-12-15,4740.20,4740.20,0.00
+2023/24,4,300012142,,Transport Operators,Integrated Transport Authority,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-01-04,2024-01-04,13377.20,13377.20,0.00
+2023/24,4,300012148,,Agency staff,Legal & Democratic Services,Legal & Democratic Services,Solace in Business Ltd,"Solace in Business Ltd (Recruitment, Interim Management & Consultancy Services)",2024-01-04,2024-01-04,21330.00,21330.00,0.00
+2023/24,4,300012175,,Grants,Environment,Nature Recovery & Climate Strategy,THE CONSERVATIVE VOLUNTEERS,THE CONSERVATION VOLUNTEERS,2024-01-05,2024-01-05,4631.37,4631.37,0.00
+2023/24,4,300012176,,Grants,Environment,Nature Recovery & Climate Strategy,THE CONSERVATIVE VOLUNTEERS,THE CONSERVATION VOLUNTEERS,2024-01-05,2024-01-05,4631.37,4631.37,0.00
+2023/24,4,300012186,,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Y E ELSOROUGI,[REDACTED],2024-01-08,2024-01-08,5000.00,5000.00,0.00
+2023/24,4,300012201,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-09,2024-01-09,1737.50,1737.50,0.00
+2023/24,4,300012256,,Consultants,People & Assets,HR,Solace in Business Ltd,"Solace in Business Ltd (Recruitment, Interim Management & Consultancy Services)",2024-01-15,2024-01-15,3042.59,3042.59,0.00
+2023/24,4,300012318,,Services,People & Assets,Executive Office,Evelyn Partnership LLP,S&W PARTNERS LLP,2024-01-18,2024-01-18,7566.19,7566.19,0.00
+2023/24,4,300012320,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-19,2024-01-19,3104.00,3104.00,0.00
+2023/24,4,300012321,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-19,2024-01-19,4496.00,4496.00,0.00
+2023/24,4,300012350,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-24,2024-01-24,3112.48,3112.48,0.00
+2023/24,4,300012382,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-25,2024-01-25,3383.70,2164.80,-1218.90
+2023/24,4,300012382,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-25,2024-01-25,2164.80,3383.70,1218.90
+2023/24,4,300012382,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-25,2024-01-25,3596.25,3596.25,0.00
+2023/24,4,300012390,,Grants,Environment,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-01-26,2024-01-26,14026.78,14026.78,0.00
+2023/24,4,300012398,,Fees,Funding from Central Government,Funding from Central Government,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-26,2024-01-26,13524.70,13524.70,0.00
+2023/24,4,300012428,,Consultants,Environment,Low Carbon & Net Zero,Ruth Gerrard,[REDACTED],2024-01-30,2024-01-30,2300.00,2300.00,0.00
+2023/24,4,300012445,,Consultants,Grant Management & Assurance,Grant Management & Assurance,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-01-31,2024-01-31,3492.00,3492.00,0.00
+2023/24,4,300012504,,Services,People & Assets,Executive Office,Evelyn Partnership LLP,S&W PARTNERS LLP,2024-02-02,2024-02-02,1990.06,1990.06,0.00
+2023/24,4,300012507,,Transport Operators,Integrated Transport Authority,Integrated Transport,Altonian Coaches Limited (Transpora),Altonian Coaches Limited,2024-02-02,2024-02-02,1114.50,1114.50,0.00
+2023/24,4,300012522,,Transport Operators,Integrated Transport Authority,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-02-05,2024-02-05,13353.99,13353.99,0.00
+2023/24,4,300012524,,Agency staff,Legal & Democratic Services,Legal & Democratic Services,Solace in Business Ltd,"Solace in Business Ltd (Recruitment, Interim Management & Consultancy Services)",2024-02-05,2024-02-05,28440.00,28440.00,0.00
+2023/24,4,300012547,,Consultants,Capital Delivery (Capital),Capital Delivery (Capital),JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-02-07,2024-02-07,2500.00,2500.00,0.00
+2023/24,4,300012570,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-08,2024-02-08,12416.00,12416.00,0.00
+2023/24,4,300012571,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-08,2024-02-08,19751.73,19751.73,0.00
+2023/24,4,300012588,,Professional Fees Project,Capital Delivery (Capital),Transport Strategy (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-09,2024-02-09,1751.85,1751.85,0.00
+2023/24,4,300012594,,Grants,Environment,Nature Recovery & Climate Strategy,DESTINATION BRISTOL T/A VISIT WEST,VISIT WEST LIMITED,2024-02-09,2024-02-09,950.00,950.00,0.00
+2023/24,4,300012689,,Grants,Environment,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-02-20,2024-02-20,5610.71,5610.71,0.00
+2023/24,4,300012695,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-20,2024-02-20,14682.57,14682.57,0.00
+2023/24,4,300012705,,Consultants,Grant Management & Assurance,Grant Management & Assurance,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-21,2024-02-21,5304.50,5304.50,0.00
+2023/24,4,300012798,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-28,2024-02-28,11549.50,11549.50,0.00
+2023/24,4,300012799,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-02-28,2024-02-28,5432.00,5432.00,0.00
+2023/24,4,300012809,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Rowe IT,CACI Ltd (formerly Rowe IT),2024-02-29,2024-02-29,107000.00,107000.00,0.00
+2023/24,4,300012820,,Catering,Integrated Transport Authority,Integrated Transport,KATE'S KITCHEN CATERING LTD,KATE�S KITCHEN CATERING LTD,2024-03-01,2024-03-01,765.00,765.00,0.00
+2023/24,4,300012848,,Consultants,Grant Management & Assurance,Grant Management & Assurance,AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-03-05,2024-03-05,5048.00,5048.00,0.00
+2023/24,4,300012849,,Transport Operators,Integrated Transport Authority,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-03-05,2024-03-05,13298.23,13298.23,0.00
+2023/24,4,300012862,,Digital,"People, Skills & Inclusive Growth",Employment & Skills,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-03-05,2024-03-05,6100.00,6100.00,0.00
+2023/24,4,300012869,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Andrew Gordon Consulting Limited,[REDACTED],2024-03-05,2024-03-05,3750.00,3750.00,0.00
+2023/24,4,300012905,,Consultants,Capital Delivery (Capital),Capital Delivery (Capital),JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-03-06,2024-03-06,2500.00,2500.00,0.00
+2023/24,4,300012977,,Grants,Environment,Low Carbon & Net Zero,PEC Trust,PEC Trust t/a Plymouth Energy Community,2024-03-11,2024-03-11,153149.43,153149.43,0.00
+2023/24,4,300013008,,Grants,Environment,Nature Recovery & Climate Strategy,THE CONSERVATIVE VOLUNTEERS,THE CONSERVATION VOLUNTEERS,2024-03-14,2024-03-14,1268.80,1268.80,0.00
+2023/24,4,300013028,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-03-14,2024-03-14,6165.00,6165.00,0.00
+2023/24,4,300013083,,Transport Operators,Integrated Transport Authority,Integrated Transport,Altonian Coaches Limited (Transpora),Altonian Coaches Limited,2024-03-18,2024-03-18,856.50,856.50,0.00
+2023/24,4,300013138,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-03-20,2024-03-20,7760.00,7760.00,0.00
+2023/24,4,300013139,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-03-20,2024-03-20,7533.75,7533.75,0.00
+2023/24,4,300013170,,Fees,Legal & Democratic Services,Legal & Democratic Services,11KBW LTD (JG QC),11KBW LTD (JG KC),2024-03-21,2024-03-21,700.00,700.00,0.00
+2023/24,4,300013192,,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Y E ELSOROUGI,[REDACTED],2024-03-21,2024-03-21,4000.00,4000.00,0.00
+2023/24,4,300013201,,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",BUCKMAN ASSOCIATES LTD,[REDACTED],2024-03-21,2024-03-21,3500.00,3500.00,0.00
+2023/24,4,300013232,,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),AtkinsRéalis UK Limited,AtkinsR�alis UK Limited,2024-03-22,2024-03-22,7524.88,7524.88,0.00
+2023/24,4,300013246,,Advertising,Business and Skills Delivery,"Enterprise, Inward Investment & Trade",JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-03-22,2024-03-22,2400.00,2400.00,0.00
+2023/24,4,300013247,,Advertising,Business and Skills Delivery,"Enterprise, Inward Investment & Trade",JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-03-22,2024-03-22,1764.00,1764.00,0.00
+2023/24,4,300013267,,Consultants,Funding from Central Government,Funding from Central Government,Liz McQue LTD,[REDACTED],2024-03-22,2024-03-22,4456.99,4456.99,0.00
+2023/24,4,300013273,,Grants,Economy & Skills,Intergrated Delivery,DESTINATION BRISTOL T/A VISIT WEST,VISIT WEST LIMITED,2024-03-25,2024-03-25,50000.00,50000.00,0.00

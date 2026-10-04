@@ -1,0 +1,328 @@
+{
+  "id": "professional-fees-project",
+  "title": "Professional fees project",
+  "note": "Added payments whose purpose is Professional Fees Project. Network Rail is most of the total, then WSP.",
+  "kind": "added",
+  "members": [
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001707",
+      "date": "2020-12-09",
+      "amount": "750.00",
+      "supplier": "CLOSED -ZEN ACCOUNTANCY LIMITED"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002197",
+      "date": "2021-02-04",
+      "amount": "314926.10",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002229",
+      "date": "2021-02-08",
+      "amount": "1000.00",
+      "supplier": "THREE WAYS SCHOOL"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002254",
+      "date": "2021-02-08",
+      "amount": "32165.73",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002548",
+      "date": "2021-03-12",
+      "amount": "193015.40",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002613",
+      "date": "2021-03-18",
+      "amount": "9914.40",
+      "supplier": "UNIVERSITY OF BRISTOL GBP INCOME"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002650",
+      "date": "2021-03-23",
+      "amount": "227487.59",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002734",
+      "date": "2021-03-29",
+      "amount": "40235.13",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002795",
+      "date": "2021-04-09",
+      "amount": "9844.13",
+      "supplier": "CFMS SERVICES LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002977",
+      "date": "2021-04-23",
+      "amount": "28801.93",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003003",
+      "date": "2021-04-28",
+      "amount": "9874.56",
+      "supplier": "NCC OPERATIONS LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003014",
+      "date": "2021-04-29",
+      "amount": "58105.95",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003016",
+      "date": "2021-04-29",
+      "amount": "9844.13",
+      "supplier": "CFMS SERVICES LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003209",
+      "date": "2021-05-26",
+      "amount": "14091.78",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003324",
+      "date": "2021-06-14",
+      "amount": "9969.50",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002650",
+      "date": "2021-03-23",
+      "amount": "227487.59",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002734",
+      "date": "2021-03-29",
+      "amount": "40235.13",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003016",
+      "date": "2021-04-29",
+      "amount": "9844.13",
+      "supplier": "CFMS SERVICES LTD"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007554",
+      "date": "2022-11-28",
+      "amount": "50000.00",
+      "supplier": "CENTRE FOR SUSTAINABLE ENERGY"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008919",
+      "date": "2023-03-21",
+      "amount": "7845.00",
+      "supplier": "WEIGHTMANS LLP"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300008693",
+      "date": "2023-03-07",
+      "amount": "12796.00",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009781",
+      "date": "2023-06-06",
+      "amount": "2549.00",
+      "supplier": "WEIGHTMANS LLP"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010144",
+      "date": "2023-07-03",
+      "amount": "2026801.00",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011471",
+      "date": "2023-11-06",
+      "amount": "762185.70",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011807",
+      "date": "2023-12-05",
+      "amount": "750769.85",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013617",
+      "date": "2024-04-25",
+      "amount": "412700.25",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013682",
+      "date": "2024-04-30",
+      "amount": "64643.46",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014631",
+      "date": "2024-07-17",
+      "amount": "1193829.44",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015070",
+      "date": "2024-08-19",
+      "amount": "166077.56",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015417",
+      "date": "2024-09-12",
+      "amount": "124290.84",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300014409",
+      "date": "2024-06-28",
+      "amount": "17001.61",
+      "supplier": "Turner and Townsend Cost Management Limited"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300014824",
+      "date": "2024-07-31",
+      "amount": "11901.48",
+      "supplier": "Turner and Townsend Cost Management Limited"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300014826",
+      "date": "2024-07-31",
+      "amount": "7603.00",
+      "supplier": "Turner and Townsend Cost Management Limited"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015775",
+      "date": "2024-10-10",
+      "amount": "38704.29",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016292",
+      "date": "2024-11-12",
+      "amount": "41082.27",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016129",
+      "date": "2024-10-31",
+      "amount": "7392.00",
+      "supplier": "Turner and Townsend Cost Management Limited"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016619",
+      "date": "2024-12-04",
+      "amount": "24539.65",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017152",
+      "date": "2025-01-16",
+      "amount": "275053.93",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017797",
+      "date": "2025-02-26",
+      "amount": "10620.00",
+      "supplier": "Turner and Townsend Cost Management Limited"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018342",
+      "date": "2025-03-21",
+      "amount": "2075.34",
+      "supplier": "NETWORK RAIL INFRASTRUCTURE LTD"
+    }
+  ]
+}

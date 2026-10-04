@@ -1,0 +1,72 @@
+{
+  "id": "payments-to-others",
+  "title": "Payments to others",
+  "note": "Added payments whose purpose is Payments to Others, almost all to the three councils.",
+  "kind": "added",
+  "members": [
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003902",
+      "date": "2023-03-20",
+      "amount": "7512.00",
+      "supplier": "VIA TECHNOLOGIES"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009042",
+      "date": "2023-03-23",
+      "amount": "7000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009043",
+      "date": "2023-03-23",
+      "amount": "14125.50",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300010920",
+      "date": "2023-09-14",
+      "amount": "8568.50",
+      "supplier": "JBP Associates Ltd"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400005181",
+      "date": "2023-12-22",
+      "amount": "360753.58",
+      "supplier": "Via Technologies Europe B.V."
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "400005382",
+      "date": "2024-02-19",
+      "amount": "149574.94",
+      "supplier": "Via Technologies Europe B.V."
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014392",
+      "date": "2024-06-26",
+      "amount": "45635.74",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "400007674",
+      "date": "2025-03-03",
+      "amount": "2399738.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    }
+  ]
+}

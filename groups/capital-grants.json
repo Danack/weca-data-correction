@@ -1,0 +1,2152 @@
+{
+  "id": "capital-grants",
+  "title": "Capital grants",
+  "note": "Added payments described as Capital Grants, mostly to the councils, colleges, and energy companies. Also the eight Agencies or Public Bodies payments to the Department for Business, Energy and Industrial Strategy, the Department for Energy Security and Net Zero, and the Cabinet Office. Agency staff costs are not included.",
+  "kind": "added",
+  "members": [
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001262",
+      "date": "2020-10-13",
+      "amount": "475000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001339",
+      "date": "2020-10-26",
+      "amount": "209403.43",
+      "supplier": "BATH COLLEGE CURRENT ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001341",
+      "date": "2020-10-26",
+      "amount": "1429991.00",
+      "supplier": "SOUTH GLOUCESTERSHIRE AND STROUD COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001412",
+      "date": "2020-11-03",
+      "amount": "79521.50",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001454",
+      "date": "2020-11-05",
+      "amount": "400000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001638",
+      "date": "2020-12-03",
+      "amount": "88010.15",
+      "supplier": "BATH COLLEGE CURRENT ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001660",
+      "date": "2020-12-07",
+      "amount": "350000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001820",
+      "date": "2020-12-18",
+      "amount": "1351271.00",
+      "supplier": "SOUTH GLOUCESTERSHIRE AND STROUD COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001821",
+      "date": "2020-12-18",
+      "amount": "375000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002184",
+      "date": "2021-02-04",
+      "amount": "500000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002289",
+      "date": "2021-02-11",
+      "amount": "99865.36",
+      "supplier": "BATH COLLEGE CURRENT ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002375",
+      "date": "2021-02-17",
+      "amount": "9336000.00",
+      "supplier": "BMT Enterprises Ltd"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002596",
+      "date": "2021-03-17",
+      "amount": "5000000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002610",
+      "date": "2021-03-18",
+      "amount": "119678.43",
+      "supplier": "BATH COLLEGE CURRENT ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002631",
+      "date": "2021-03-19",
+      "amount": "1632529.48",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002867",
+      "date": "2021-04-14",
+      "amount": "458000.00",
+      "supplier": "CITY OF BRISTOL COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002927",
+      "date": "2021-04-16",
+      "amount": "1556604.00",
+      "supplier": "SOUTH GLOUCESTERSHIRE AND STROUD COLLEGE"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002999",
+      "date": "2021-04-28",
+      "amount": "511000.00",
+      "supplier": "BMT Enterprises Ltd"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003024",
+      "date": "2021-04-20",
+      "amount": "4309.62",
+      "supplier": "CLOSED MMA Architectural Systems Ltd"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003080",
+      "date": "2021-05-11",
+      "amount": "261527.92",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003081",
+      "date": "2021-05-11",
+      "amount": "27435.80",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003091",
+      "date": "2021-05-11",
+      "amount": "52386.91",
+      "supplier": "BATH COLLEGE CURRENT ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003123",
+      "date": "2021-05-17",
+      "amount": "97038.94",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003124",
+      "date": "2021-05-17",
+      "amount": "63029.39",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003269",
+      "date": "2021-06-03",
+      "amount": "33339.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "900000782",
+      "date": "2021-09-28",
+      "amount": "29909.80",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000875",
+      "date": "2021-11-02",
+      "amount": "137707.01",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000942",
+      "date": "2021-11-26",
+      "amount": "376519.32",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000943",
+      "date": "2021-11-26",
+      "amount": "7600.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000976",
+      "date": "2021-12-17",
+      "amount": "1127045.28",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "900000977",
+      "date": "2021-12-17",
+      "amount": "11400.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001060",
+      "date": "2022-01-31",
+      "amount": "1495043.52",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001061",
+      "date": "2022-01-31",
+      "amount": "13300.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001148",
+      "date": "2022-03-07",
+      "amount": "1874044.63",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001149",
+      "date": "2022-03-07",
+      "amount": "25650.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001212",
+      "date": "2022-03-28",
+      "amount": "1903253.09",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "900001213",
+      "date": "2022-03-28",
+      "amount": "7600.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001256",
+      "date": "2022-04-05",
+      "amount": "714029.95",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001327",
+      "date": "2022-04-29",
+      "amount": "2639595.71",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001328",
+      "date": "2022-04-29",
+      "amount": "27550.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001391",
+      "date": "2022-05-24",
+      "amount": "1678035.08",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001407",
+      "date": "2022-05-27",
+      "amount": "2601132.33",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001408",
+      "date": "2022-05-27",
+      "amount": "19000.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "900001473",
+      "date": "2022-06-16",
+      "amount": "1567477.34",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300007042",
+      "date": "2022-09-30",
+      "amount": "6108.45",
+      "supplier": "CLOSED - Beam Ltd"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300007044",
+      "date": "2022-09-30",
+      "amount": "3219.14",
+      "supplier": "CLOSED - Mil-Tu-Fit Engineering Limited"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300007045",
+      "date": "2022-09-30",
+      "amount": "14841.50",
+      "supplier": "CLOSED -Jaminns Ltd (trading as Jam Inns Ice Delivery)"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001519",
+      "date": "2022-07-06",
+      "amount": "2717247.89",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001520",
+      "date": "2022-07-06",
+      "amount": "21850.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001578",
+      "date": "2022-07-25",
+      "amount": "2644943.14",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001604",
+      "date": "2022-08-01",
+      "amount": "2718885.11",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001605",
+      "date": "2022-08-01",
+      "amount": "16150.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001654",
+      "date": "2022-08-11",
+      "amount": "490011.04",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001687",
+      "date": "2022-08-31",
+      "amount": "1833021.74",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001688",
+      "date": "2022-08-31",
+      "amount": "7600.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001738",
+      "date": "2022-09-16",
+      "amount": "1588428.93",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "900001742",
+      "date": "2022-09-16",
+      "amount": "186381.64",
+      "supplier": "HAPPY ENERGY SOLUTIONS LTD"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003487",
+      "date": "2022-12-15",
+      "amount": "1749250.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003487",
+      "date": "2022-12-15",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003563",
+      "date": "2023-01-06",
+      "amount": "415415.00",
+      "supplier": "Department for Business Energy & Industrial Strategy"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003563",
+      "date": "2023-01-06",
+      "amount": "606953.00",
+      "supplier": "Department for Business Energy & Industrial Strategy"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "400003563",
+      "date": "2023-01-06",
+      "amount": "9477632.00",
+      "supplier": "Department for Business Energy & Industrial Strategy"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001764",
+      "date": "2022-09-30",
+      "amount": "2255498.12",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001765",
+      "date": "2022-09-30",
+      "amount": "950.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001822",
+      "date": "2022-10-17",
+      "amount": "1706049.64",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001842",
+      "date": "2022-10-31",
+      "amount": "1849146.32",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001846",
+      "date": "2022-11-01",
+      "amount": "3578927.97",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001847",
+      "date": "2022-11-01",
+      "amount": "2850.00",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001869",
+      "date": "2022-11-09",
+      "amount": "122553.27",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001924",
+      "date": "2022-12-12",
+      "amount": "457792.69",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001928",
+      "date": "2022-12-12",
+      "amount": "3223553.21",
+      "supplier": "E.ON NEXT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "900001932",
+      "date": "2022-12-15",
+      "amount": "18878.40",
+      "supplier": "HAPPY ENERGY SOLUTIONS LTD"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003705",
+      "date": "2023-02-02",
+      "amount": "90845.00",
+      "supplier": "Department for Business Energy & Industrial Strategy"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003705",
+      "date": "2023-02-02",
+      "amount": "573049.00",
+      "supplier": "Department for Business Energy & Industrial Strategy"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "400003705",
+      "date": "2023-02-02",
+      "amount": "1640949.00",
+      "supplier": "Department for Business Energy & Industrial Strategy"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002128",
+      "date": "2023-02-17",
+      "amount": "6000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002140",
+      "date": "2023-02-21",
+      "amount": "9900.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002163",
+      "date": "2023-03-10",
+      "amount": "32212.60",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002166",
+      "date": "2023-03-17",
+      "amount": "29999.63",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002167",
+      "date": "2023-03-17",
+      "amount": "8500.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002168",
+      "date": "2023-03-20",
+      "amount": "676563.85",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002169",
+      "date": "2023-03-20",
+      "amount": "504374.63",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002198",
+      "date": "2023-03-24",
+      "amount": "27876.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002199",
+      "date": "2023-03-24",
+      "amount": "9993.40",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002200",
+      "date": "2023-03-24",
+      "amount": "6116.06",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002201",
+      "date": "2023-03-24",
+      "amount": "30000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "900002202",
+      "date": "2023-03-24",
+      "amount": "23800.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400003989",
+      "date": "2023-04-11",
+      "amount": "1749250.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400003989",
+      "date": "2023-04-11",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004107",
+      "date": "2023-04-24",
+      "amount": "197988.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004107",
+      "date": "2023-04-24",
+      "amount": "247485.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004432",
+      "date": "2023-06-25",
+      "amount": "1749250.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004432",
+      "date": "2023-06-25",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004453",
+      "date": "2023-07-01",
+      "amount": "197988.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "400004453",
+      "date": "2023-07-01",
+      "amount": "247485.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002220",
+      "date": "2023-04-05",
+      "amount": "7680.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002221",
+      "date": "2023-04-05",
+      "amount": "7136.06",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002282",
+      "date": "2023-04-17",
+      "amount": "10929.39",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002283",
+      "date": "2023-04-17",
+      "amount": "28819.20",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002284",
+      "date": "2023-04-17",
+      "amount": "863.94",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002285",
+      "date": "2023-04-17",
+      "amount": "7980.66",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002286",
+      "date": "2023-04-18",
+      "amount": "28458.20",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002290",
+      "date": "2023-04-24",
+      "amount": "19118.80",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002291",
+      "date": "2023-04-24",
+      "amount": "18761.60",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002292",
+      "date": "2023-04-24",
+      "amount": "11548.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002376",
+      "date": "2023-05-08",
+      "amount": "6463.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002378",
+      "date": "2023-05-12",
+      "amount": "10990.85",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "900002440",
+      "date": "2023-06-12",
+      "amount": "52520.75",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010070",
+      "date": "2023-06-27",
+      "amount": "5650000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004619",
+      "date": "2023-08-02",
+      "amount": "5650000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004811",
+      "date": "2023-09-25",
+      "amount": "1749250.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004811",
+      "date": "2023-09-25",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004859",
+      "date": "2023-10-03",
+      "amount": "197988.00",
+      "supplier": "Bath and North East Somerset Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "400004859",
+      "date": "2023-10-03",
+      "amount": "247485.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002524",
+      "date": "2023-07-24",
+      "amount": "7337.39",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002563",
+      "date": "2021-04-22",
+      "amount": "7908.26",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002564",
+      "date": "2021-04-22",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002565",
+      "date": "2021-04-22",
+      "amount": "7908.26",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002566",
+      "date": "2021-04-22",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002597",
+      "date": "2023-09-05",
+      "amount": "28801.15",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002600",
+      "date": "2023-09-01",
+      "amount": "7428.66",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002601",
+      "date": "2023-09-01",
+      "amount": "9444.77",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002636",
+      "date": "2023-09-19",
+      "amount": "29921.20",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002640",
+      "date": "2023-09-11",
+      "amount": "8955.60",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002641",
+      "date": "2023-09-26",
+      "amount": "12318.65",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002644",
+      "date": "2023-09-25",
+      "amount": "7960.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002645",
+      "date": "2023-09-25",
+      "amount": "19392.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002646",
+      "date": "2023-09-25",
+      "amount": "29996.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002647",
+      "date": "2023-09-25",
+      "amount": "21265.60",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002648",
+      "date": "2023-09-25",
+      "amount": "28025.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002649",
+      "date": "2023-09-25",
+      "amount": "21884.44",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "900002650",
+      "date": "2023-09-25",
+      "amount": "25200.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400004893",
+      "date": "2023-10-09",
+      "amount": "333500.00",
+      "supplier": "Cabinet Office"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "400005088",
+      "date": "2023-11-27",
+      "amount": "2763082.04",
+      "supplier": "Department for Energy Security and Net Zero"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002676",
+      "date": "2023-10-02",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002677",
+      "date": "2023-10-02",
+      "amount": "7391.34",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002678",
+      "date": "2023-10-02",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002679",
+      "date": "2023-10-02",
+      "amount": "7391.34",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002681",
+      "date": "2023-10-09",
+      "amount": "5380.15",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002682",
+      "date": "2023-10-09",
+      "amount": "19887.43",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002683",
+      "date": "2023-10-16",
+      "amount": "29600.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002748",
+      "date": "2023-10-30",
+      "amount": "24000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002749",
+      "date": "2023-10-30",
+      "amount": "24000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002760",
+      "date": "2023-11-06",
+      "amount": "20000.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002790",
+      "date": "2023-11-13",
+      "amount": "95755.25",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002791",
+      "date": "2023-11-13",
+      "amount": "90662.30",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002792",
+      "date": "2023-11-13",
+      "amount": "80412.75",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002793",
+      "date": "2023-11-13",
+      "amount": "78705.60",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002794",
+      "date": "2023-11-13",
+      "amount": "78705.60",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002822",
+      "date": "2023-11-20",
+      "amount": "8450.15",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002823",
+      "date": "2023-11-20",
+      "amount": "4777.92",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002824",
+      "date": "2023-11-20",
+      "amount": "6600.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002825",
+      "date": "2023-11-20",
+      "amount": "6092.79",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002826",
+      "date": "2023-11-20",
+      "amount": "14145.60",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002829",
+      "date": "2023-12-04",
+      "amount": "7560.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002830",
+      "date": "2023-12-04",
+      "amount": "18736.80",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002865",
+      "date": "2023-12-18",
+      "amount": "32024.95",
+      "supplier": "CITY ENERGY NETWORK LIMITED"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002867",
+      "date": "2023-12-18",
+      "amount": "3311.65",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002868",
+      "date": "2023-12-18",
+      "amount": "5615.36",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002882",
+      "date": "2023-12-18",
+      "amount": "26435.20",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002883",
+      "date": "2023-12-18",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002884",
+      "date": "2023-12-18",
+      "amount": "9250.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002885",
+      "date": "2023-12-18",
+      "amount": "9250.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002886",
+      "date": "2023-12-18",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002887",
+      "date": "2023-12-18",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002888",
+      "date": "2023-12-18",
+      "amount": "3000.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002889",
+      "date": "2023-12-18",
+      "amount": "3000.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002890",
+      "date": "2023-12-18",
+      "amount": "4375.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "900002891",
+      "date": "2023-12-22",
+      "amount": "3000.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002985",
+      "date": "2024-01-22",
+      "amount": "8543.16",
+      "supplier": "HAPPY ENERGY SOLUTIONS LTD"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002987",
+      "date": "2024-01-29",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002988",
+      "date": "2024-01-29",
+      "amount": "23152.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002989",
+      "date": "2024-01-29",
+      "amount": "8423.04",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002991",
+      "date": "2024-01-29",
+      "amount": "11053.08",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900002992",
+      "date": "2024-01-29",
+      "amount": "19600.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003030",
+      "date": "2024-02-19",
+      "amount": "9556.89",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003031",
+      "date": "2024-02-19",
+      "amount": "7006.40",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003052",
+      "date": "2024-02-26",
+      "amount": "6305.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003053",
+      "date": "2024-02-26",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003054",
+      "date": "2024-02-26",
+      "amount": "9250.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003056",
+      "date": "2024-03-04",
+      "amount": "8176.32",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003057",
+      "date": "2024-03-04",
+      "amount": "29700.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003058",
+      "date": "2024-03-04",
+      "amount": "5796.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003059",
+      "date": "2024-03-04",
+      "amount": "9024.00",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003060",
+      "date": "2024-03-04",
+      "amount": "17964.80",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003061",
+      "date": "2024-03-04",
+      "amount": "15249.60",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003062",
+      "date": "2024-03-04",
+      "amount": "29657.25",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003103",
+      "date": "2024-03-11",
+      "amount": "25810.37",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003104",
+      "date": "2024-03-15",
+      "amount": "29657.25",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003149",
+      "date": "2024-03-25",
+      "amount": "20209.29",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "900003150",
+      "date": "2024-03-25",
+      "amount": "13643.46",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400005737",
+      "date": "2024-04-25",
+      "amount": "1889740.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400005737",
+      "date": "2024-04-25",
+      "amount": "2368612.50",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400006184",
+      "date": "2024-07-02",
+      "amount": "140490.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400006184",
+      "date": "2024-07-02",
+      "amount": "175612.50",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400006184",
+      "date": "2024-07-02",
+      "amount": "1749250.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400006184",
+      "date": "2024-07-02",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003190",
+      "date": "2024-04-10",
+      "amount": "5728.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003191",
+      "date": "2024-04-10",
+      "amount": "2608.39",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003192",
+      "date": "2024-04-15",
+      "amount": "13968.14",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003193",
+      "date": "2024-04-15",
+      "amount": "8142.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003226",
+      "date": "2024-04-29",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003227",
+      "date": "2024-04-29",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003228",
+      "date": "2024-04-29",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003229",
+      "date": "2024-04-29",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003230",
+      "date": "2024-04-29",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003231",
+      "date": "2024-04-29",
+      "amount": "6895.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003232",
+      "date": "2024-04-29",
+      "amount": "25508.88",
+      "supplier": "Sundry Supplier- Business Growth Grants"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003233",
+      "date": "2024-04-29",
+      "amount": "3830.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003245",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Radstock Town Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003246",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003247",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003248",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003249",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003250",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003251",
+      "date": "2024-05-08",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003260",
+      "date": "2024-05-08",
+      "amount": "4491.12",
+      "supplier": "BATH CITY FARM"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003261",
+      "date": "2024-05-13",
+      "amount": "2761.52",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003262",
+      "date": "2024-05-13",
+      "amount": "13290.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003344",
+      "date": "2024-05-13",
+      "amount": "3920.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003346",
+      "date": "2024-05-20",
+      "amount": "4406.35",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003371",
+      "date": "2024-06-10",
+      "amount": "12280.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003391",
+      "date": "2024-06-10",
+      "amount": "9500.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003392",
+      "date": "2024-06-10",
+      "amount": "3673.00",
+      "supplier": "Radstock Town Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "900003393",
+      "date": "2024-06-10",
+      "amount": "5925.00",
+      "supplier": "Radstock Town Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006698",
+      "date": "2024-09-27",
+      "amount": "140490.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006698",
+      "date": "2024-09-27",
+      "amount": "175612.50",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006698",
+      "date": "2024-09-27",
+      "amount": "1749250.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006698",
+      "date": "2024-09-27",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003436",
+      "date": "2024-07-01",
+      "amount": "1466.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003439",
+      "date": "2024-07-08",
+      "amount": "8615.22",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003440",
+      "date": "2024-07-08",
+      "amount": "10954.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003504",
+      "date": "2024-07-29",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003505",
+      "date": "2024-07-29",
+      "amount": "25227.55",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003506",
+      "date": "2024-07-29",
+      "amount": "6228.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003554",
+      "date": "2024-08-22",
+      "amount": "4512.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003555",
+      "date": "2024-09-02",
+      "amount": "10352.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003556",
+      "date": "2024-09-02",
+      "amount": "1423.34",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "900003557",
+      "date": "2024-09-02",
+      "amount": "10130.71",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007075",
+      "date": "2024-11-29",
+      "amount": "2500.00",
+      "supplier": "Bristol Payji Ltd"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007286",
+      "date": "2024-12-20",
+      "amount": "2368612.50",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007286",
+      "date": "2024-12-20",
+      "amount": "2493397.50",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007319",
+      "date": "2025-01-02",
+      "amount": "140490.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007319",
+      "date": "2025-01-02",
+      "amount": "175612.50",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007319",
+      "date": "2025-01-02",
+      "amount": "1749250.00",
+      "supplier": "Bath & North East Somerset Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007319",
+      "date": "2025-01-02",
+      "amount": "2193000.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003632",
+      "date": "2024-09-30",
+      "amount": "20035.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003633",
+      "date": "2024-09-30",
+      "amount": "2980.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003635",
+      "date": "2024-09-30",
+      "amount": "2980.00",
+      "supplier": "Sundry Supplier - Creative Scale-Up Grants"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003747",
+      "date": "2024-10-07",
+      "amount": "5136.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003748",
+      "date": "2024-10-07",
+      "amount": "27900.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003749",
+      "date": "2024-10-07",
+      "amount": "7691.05",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003836",
+      "date": "2024-11-11",
+      "amount": "4496.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003837",
+      "date": "2024-11-11",
+      "amount": "804.21",
+      "supplier": "CHEW MAGNA OLD SCHOOL ROOM CHARITY"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003838",
+      "date": "2024-11-11",
+      "amount": "3905.95",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003839",
+      "date": "2024-11-11",
+      "amount": "8000.00",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003840",
+      "date": "2024-11-11",
+      "amount": "622.45",
+      "supplier": "Bishop Sutton Village Hall"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "900003841",
+      "date": "2024-11-11",
+      "amount": "15310.25",
+      "supplier": "Sundry Supplier- General"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "400007586",
+      "date": "2025-02-19",
+      "amount": "2045.78",
+      "supplier": "Bristol Payji (trading as We Are Locals)"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008247",
+      "date": "2025-05-07",
+      "amount": "590500.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008247",
+      "date": "2025-05-07",
+      "amount": "2193000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008523",
+      "date": "2025-06-27",
+      "amount": "590500.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008523",
+      "date": "2025-06-27",
+      "amount": "961610.31",
+      "supplier": "E.ON"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "400008523",
+      "date": "2025-06-27",
+      "amount": "2193000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008885",
+      "date": "2025-10-01",
+      "amount": "471000.00",
+      "supplier": "BATH AND NORTH EAST SOMERSET"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008885",
+      "date": "2025-10-01",
+      "amount": "590500.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008885",
+      "date": "2025-10-01",
+      "amount": "1749250.00",
+      "supplier": "BATH AND NORTH EAST SOMERSET"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "400008885",
+      "date": "2025-10-01",
+      "amount": "2193000.00",
+      "supplier": "BRISTOL CITY COUNCIL GEN ACCOUNT"
+    }
+  ]
+}

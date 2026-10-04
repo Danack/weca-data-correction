@@ -1,0 +1,3280 @@
+{
+  "id": "redacted-supplier",
+  "title": "Redacted supplier",
+  "note": "An already published payment whose corrected supplier is a redaction, or where the original supplier name was a redaction. Payments that appear only in the corrected file are not included.",
+  "kind": "redacted",
+  "members": [
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000039",
+      "date": "2020-05-19",
+      "amount": "2750.00",
+      "supplier": "CLOSED FRANCIS TAYLOR BUILDING"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000049",
+      "date": "2020-05-20",
+      "amount": "5168.25",
+      "supplier": "CLOSED Bill Sharpe Research"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300000450",
+      "date": "2020-07-03",
+      "amount": "1700.00",
+      "supplier": "BUCKMAN ASSOCIATES LTD"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300000649",
+      "date": "2020-08-10",
+      "amount": "765.00",
+      "supplier": "CLOSED W Hobbs Window Cleaning"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300000738",
+      "date": "2020-08-14",
+      "amount": "4650.00",
+      "supplier": "CLOSED Andre Pattenden"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300001049",
+      "date": "2020-09-23",
+      "amount": "1100.00",
+      "supplier": "CLOSED MR A J RICHARDS"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "3",
+      "transaction_no": "300001320",
+      "date": "2020-10-22",
+      "amount": "640.00",
+      "supplier": "CLOSED MAYK THEATRE CIC"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "3",
+      "transaction_no": "300001470",
+      "date": "2020-11-06",
+      "amount": "3500.00",
+      "supplier": "FREIA TURLAND"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300001622",
+      "date": "2020-12-02",
+      "amount": "4500.00",
+      "supplier": "CLOSED HARRY COBBOLD T/A HAIO"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300001896",
+      "date": "2021-01-07",
+      "amount": "600.00",
+      "supplier": "CLOSED - PHIL CHAMBERLAIN"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300001921",
+      "date": "2021-01-12",
+      "amount": "1000.00",
+      "supplier": "CLOSED HARRY COBBOLD T/A HAIO"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002038",
+      "date": "2021-01-22",
+      "amount": "3600.00",
+      "supplier": "CLOSED Andre Pattenden"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002131",
+      "date": "2021-02-01",
+      "amount": "1000.00",
+      "supplier": "CLOSED HARRY COBBOLD T/A HAIO"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002319",
+      "date": "2021-02-19",
+      "amount": "2250.00",
+      "supplier": "CLOSED CHRIS HACKETT"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002782",
+      "date": "2021-04-08",
+      "amount": "1500.00",
+      "supplier": "CLOSED HARRY COBBOLD T/A HAIO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002785",
+      "date": "2021-04-08",
+      "amount": "3390.00",
+      "supplier": "CLOSED COGNITIVE PATHS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002808",
+      "date": "2021-04-09",
+      "amount": "750.00",
+      "supplier": "CLOSED GERARD LISTON T/A 'OBJECTIVE'"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002816",
+      "date": "2021-04-08",
+      "amount": "2360.00",
+      "supplier": "CLOSED N AL-TAHHAN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002820",
+      "date": "2021-04-09",
+      "amount": "1305.20",
+      "supplier": "CLOSED Carmel Bristol"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002846",
+      "date": "2021-04-12",
+      "amount": "2000.00",
+      "supplier": "CLOSED - DIVA AGENCY"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002855",
+      "date": "2021-04-13",
+      "amount": "3000.00",
+      "supplier": "CLOSED MAYK THEATRE CIC"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002897",
+      "date": "2021-04-15",
+      "amount": "4500.00",
+      "supplier": "CLOSED - HEX PRODUCTIONS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002952",
+      "date": "2021-04-14",
+      "amount": "2573.17",
+      "supplier": "CLOSED PETROC"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002986",
+      "date": "2021-04-26",
+      "amount": "2500.00",
+      "supplier": "CLOSED - ARIMA CONSULTING LIMITED T/A ARIMA & CO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003025",
+      "date": "2021-04-20",
+      "amount": "2000.00",
+      "supplier": "CLOSED - COLIN KING T/A CKC"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003068",
+      "date": "2021-05-10",
+      "amount": "1187.50",
+      "supplier": "CLOSED DANIEL WOOD ASSOCIATES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003134",
+      "date": "2021-05-17",
+      "amount": "750.00",
+      "supplier": "CLOSED - MOORE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003167",
+      "date": "2021-05-21",
+      "amount": "5510.00",
+      "supplier": "CLOSED CIRQUE BIJOU"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003169",
+      "date": "2021-05-24",
+      "amount": "2960.00",
+      "supplier": "CLOSED N AL-TAHHAN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003181",
+      "date": "2021-05-24",
+      "amount": "1928.70",
+      "supplier": "CLOSED AUROCH DIGITAL"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003234",
+      "date": "2021-05-28",
+      "amount": "2000.00",
+      "supplier": "CLOSED - ARIMA CONSULTING LIMITED T/A ARIMA & CO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003236",
+      "date": "2021-05-28",
+      "amount": "2000.00",
+      "supplier": "CLOSED CIRQUE BIJOU"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003330",
+      "date": "2021-06-16",
+      "amount": "712.50",
+      "supplier": "CLOSED DANIEL WOOD ASSOCIATES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003386",
+      "date": "2021-06-24",
+      "amount": "795.00",
+      "supplier": "Landor Links"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003466",
+      "date": "2021-06-23",
+      "amount": "900.00",
+      "supplier": "FREIA TURLAND"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003644",
+      "date": "2021-08-02",
+      "amount": "28500.00",
+      "supplier": "NGD ADVISORY SERVICES LTD"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003743",
+      "date": "2021-08-23",
+      "amount": "10500.00",
+      "supplier": "CLOSED - THE GREEN REGISTER"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003771",
+      "date": "2021-08-26",
+      "amount": "4754.75",
+      "supplier": "CLOSED - CENTRE FOR CITIES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003798",
+      "date": "2021-08-27",
+      "amount": "6890.20",
+      "supplier": "MARSHFIELD COMMUNITY LAND TRUST"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003806",
+      "date": "2021-08-31",
+      "amount": "700.00",
+      "supplier": "FREIA TURLAND"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003807",
+      "date": "2021-08-31",
+      "amount": "2057.02",
+      "supplier": "CLOSED - CENTRE FOR CITIES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003823",
+      "date": "2021-09-01",
+      "amount": "750.00",
+      "supplier": "ELECTED TECHNOLOGIES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003889",
+      "date": "2021-09-13",
+      "amount": "1500.00",
+      "supplier": "CLOSED GERARD LISTON T/A 'OBJECTIVE'"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003938",
+      "date": "2021-09-20",
+      "amount": "3000.00",
+      "supplier": "THE PRESENTATION MAESTRO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300003983",
+      "date": "2021-09-28",
+      "amount": "4754.75",
+      "supplier": "CLOSED - CENTRE FOR CITIES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004024",
+      "date": "2021-09-30",
+      "amount": "1285.63",
+      "supplier": "CLOSED - JESSICA AUGARDE DESIGN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004140",
+      "date": "2021-10-19",
+      "amount": "1800.00",
+      "supplier": "CLOSED - PHIL CHAMBERLAIN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004148",
+      "date": "2021-10-19",
+      "amount": "565.00",
+      "supplier": "FREIA TURLAND"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004152",
+      "date": "2021-10-19",
+      "amount": "1050.00",
+      "supplier": "CLOSED - THE INVISIBLE CIRCUS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004227",
+      "date": "2021-10-28",
+      "amount": "900.00",
+      "supplier": "CLOSED - BO LANYON STUDIO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004340",
+      "date": "2021-11-08",
+      "amount": "4754.75",
+      "supplier": "CLOSED - CENTRE FOR CITIES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004389",
+      "date": "2021-11-19",
+      "amount": "1000.00",
+      "supplier": "CLOSED - CARRUTHERS TANNER"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004430",
+      "date": "2021-11-22",
+      "amount": "750.00",
+      "supplier": "CLOSED - CARRUTHERS TANNER"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004435",
+      "date": "2021-11-22",
+      "amount": "4900.00",
+      "supplier": "JONESMILLBANK"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004472",
+      "date": "2021-11-26",
+      "amount": "4754.75",
+      "supplier": "CLOSED - CENTRE FOR CITIES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004490",
+      "date": "2021-11-30",
+      "amount": "1600.00",
+      "supplier": "ADAM GASSON"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004493",
+      "date": "2021-11-30",
+      "amount": "1500.00",
+      "supplier": "CLOSED - ZLATI SPASOVA ART"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004521",
+      "date": "2021-12-03",
+      "amount": "1500.00",
+      "supplier": "CLOSED GERARD LISTON T/A 'OBJECTIVE'"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004522",
+      "date": "2021-12-03",
+      "amount": "3900.00",
+      "supplier": "CLOSED - KINGS CHAMBERS (RC QC)"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004579",
+      "date": "2021-12-07",
+      "amount": "960.00",
+      "supplier": "CLOSED - MADE MY WARDROBE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004593",
+      "date": "2021-12-10",
+      "amount": "8743.13",
+      "supplier": "CLOSED CALYO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004630",
+      "date": "2021-12-15",
+      "amount": "3500.00",
+      "supplier": "CLOSED - KINGS CHAMBERS (RC QC)"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004674",
+      "date": "2021-12-20",
+      "amount": "2340.00",
+      "supplier": "CLOSED - VICTORIA BOURNE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004676",
+      "date": "2021-12-20",
+      "amount": "950.00",
+      "supplier": "CLOSED - MADE MY WARDROBE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004678",
+      "date": "2021-12-20",
+      "amount": "1500.00",
+      "supplier": "CLOSED - KATY WELSH"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004679",
+      "date": "2021-12-20",
+      "amount": "1000.00",
+      "supplier": "CLOSED - CARRUTHERS TANNER"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004363",
+      "date": "2021-11-02",
+      "amount": "1300.00",
+      "supplier": "CLOSED MS D J ROBINSON"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004677",
+      "date": "2021-12-20",
+      "amount": "625.00",
+      "supplier": "SPARK FILMS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004732",
+      "date": "2021-12-03",
+      "amount": "1950.00",
+      "supplier": "CLOSED - ESTER DE ROIJ"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004734",
+      "date": "2022-01-04",
+      "amount": "1952.00",
+      "supplier": "CLOSED - JON AITKEN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004808",
+      "date": "2022-01-12",
+      "amount": "625.00",
+      "supplier": "SPARK FILMS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004814",
+      "date": "2022-01-13",
+      "amount": "1500.00",
+      "supplier": "CLOSED - KATY WELSH"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004857",
+      "date": "2022-01-21",
+      "amount": "1800.00",
+      "supplier": "CLOSED - JESSICA THORN CERAMICS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004903",
+      "date": "2022-01-31",
+      "amount": "590.00",
+      "supplier": "CLOSED - MADE MY WARDROBE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004904",
+      "date": "2022-01-31",
+      "amount": "3000.00",
+      "supplier": "CLOSED - ATOMIC SMASH"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004905",
+      "date": "2022-01-31",
+      "amount": "1120.00",
+      "supplier": "CLOSED - ZLATI SPASOVA ART"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004906",
+      "date": "2022-01-31",
+      "amount": "3000.00",
+      "supplier": "CLOSED - CREATIVITY WORKS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004978",
+      "date": "2022-02-02",
+      "amount": "1120.37",
+      "supplier": "CLOSED - JESSICA AUGARDE DESIGN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004979",
+      "date": "2022-02-02",
+      "amount": "915.00",
+      "supplier": "CLOSED  - NICK YOUNG"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300004992",
+      "date": "2022-02-02",
+      "amount": "2400.00",
+      "supplier": "CLOSED - COLM WATLING"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005024",
+      "date": "2022-02-07",
+      "amount": "2800.00",
+      "supplier": "CLOSED - NEXT VENTURE STUDIO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005031",
+      "date": "2022-02-07",
+      "amount": "2400.00",
+      "supplier": "CLOSED - ALI HADAVIZADEH T/A ACORN BIZ SOLUTIONS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005068",
+      "date": "2022-02-09",
+      "amount": "1315.00",
+      "supplier": "FREIA TURLAND"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005070",
+      "date": "2022-02-10",
+      "amount": "3200.00",
+      "supplier": "CLOSED - FLINT INNOVATION"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005085",
+      "date": "2022-02-11",
+      "amount": "630.00",
+      "supplier": "CLOSED - JESSICA THORN CERAMICS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005087",
+      "date": "2022-02-11",
+      "amount": "600.00",
+      "supplier": "CLOSED - CLARE DISTON EDITORIAL SERVICES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005089",
+      "date": "2022-02-11",
+      "amount": "750.00",
+      "supplier": "CLOSED - GREAT COPY MATTERS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005091",
+      "date": "2022-02-11",
+      "amount": "660.00",
+      "supplier": "CLOSED - VICTORIA BOURNE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005092",
+      "date": "2022-02-11",
+      "amount": "625.00",
+      "supplier": "SPARK FILMS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005109",
+      "date": "2021-12-07",
+      "amount": "1200.00",
+      "supplier": "CLOSED - PHIL CHAMBERLAIN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005128",
+      "date": "2022-02-17",
+      "amount": "11602.09",
+      "supplier": "JONESMILLBANK"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005138",
+      "date": "2022-02-17",
+      "amount": "1650.00",
+      "supplier": "CLOSED - BRISTOL JAZZ AND BLUES FESTIVAL"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005155",
+      "date": "2022-02-22",
+      "amount": "67252.70",
+      "supplier": "LEONARD CHESHIRE"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005218",
+      "date": "2022-02-28",
+      "amount": "540.00",
+      "supplier": "CLOSED - JESSICA THORN CERAMICS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005223",
+      "date": "2022-02-28",
+      "amount": "2799.00",
+      "supplier": "THE CRAFTY HEN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005284",
+      "date": "2022-03-04",
+      "amount": "668.00",
+      "supplier": "CLOSED - JON AITKEN"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005299",
+      "date": "2022-03-08",
+      "amount": "875.00",
+      "supplier": "THE MUSUEM OF EAST ASIAN ART"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005344",
+      "date": "2022-03-11",
+      "amount": "600.00",
+      "supplier": "CLOSED - CLARE DISTON EDITORIAL SERVICES"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005358",
+      "date": "2022-03-14",
+      "amount": "1500.00",
+      "supplier": "CLOSED - GREAT COPY MATTERS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005455",
+      "date": "2022-03-21",
+      "amount": "11256.87",
+      "supplier": "CLOSED CALYO"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005532",
+      "date": "2022-03-27",
+      "amount": "750.00",
+      "supplier": "THE MUSUEM OF EAST ASIAN ART"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005535",
+      "date": "2022-03-27",
+      "amount": "1700.00",
+      "supplier": "CLOSED - RAUCOUS"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005536",
+      "date": "2022-03-27",
+      "amount": "900.00",
+      "supplier": "CLOSED - KATY CONNOR ARTIST"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005538",
+      "date": "2022-03-27",
+      "amount": "1000.00",
+      "supplier": "CLOSED - ESTER DE ROIJ"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005539",
+      "date": "2022-03-28",
+      "amount": "1300.00",
+      "supplier": "CLOSED MS D J ROBINSON"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005576",
+      "date": "2022-04-04",
+      "amount": "800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005650",
+      "date": "2022-04-11",
+      "amount": "700.00",
+      "supplier": "Hawkesbury Volunteer Transport Group"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005690",
+      "date": "2022-04-19",
+      "amount": "3000.00",
+      "supplier": "CLOSED COGNITIVE PATHS"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005710",
+      "date": "2022-04-19",
+      "amount": "625.00",
+      "supplier": "SPARK FILMS"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005757",
+      "date": "2022-04-25",
+      "amount": "900.00",
+      "supplier": "CLOSED - BO LANYON STUDIO"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005817",
+      "date": "2022-05-03",
+      "amount": "900.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005823",
+      "date": "2022-05-03",
+      "amount": "35959.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005843",
+      "date": "2022-05-05",
+      "amount": "2550.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005846",
+      "date": "2022-05-05",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005892",
+      "date": "2022-05-10",
+      "amount": "39600.00",
+      "supplier": "CLOSED - DELOITTE MCS (FOR MANAGEMENT CONSULTANCY SERVICES)"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005931",
+      "date": "2022-05-18",
+      "amount": "1425.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005981",
+      "date": "2022-05-23",
+      "amount": "535.00",
+      "supplier": "SPRINT PRINT & DESIGN"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005986",
+      "date": "2022-05-25",
+      "amount": "67293.31",
+      "supplier": "LEONARD CHESHIRE"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005998",
+      "date": "2022-05-26",
+      "amount": "2400.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300006111",
+      "date": "2022-05-20",
+      "amount": "1800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300006264",
+      "date": "2022-06-29",
+      "amount": "850.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006196",
+      "date": "2022-06-20",
+      "amount": "2460.32",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006202",
+      "date": "2022-06-21",
+      "amount": "549.40",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006295",
+      "date": "2022-07-04",
+      "amount": "1800.00",
+      "supplier": "CLOSED - FLINT INNOVATION"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006308",
+      "date": "2022-07-04",
+      "amount": "2025.00",
+      "supplier": "CLOSED - KINGS CHAMBERS (RC QC)"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006334",
+      "date": "2022-07-07",
+      "amount": "1049.00",
+      "supplier": "SPRINT PRINT & DESIGN"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006337",
+      "date": "2022-07-08",
+      "amount": "6600.00",
+      "supplier": "CLOSED - FRANCIS TAYLOR BUILDING"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006379",
+      "date": "2022-07-13",
+      "amount": "2437.50",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006381",
+      "date": "2022-07-14",
+      "amount": "1500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006414",
+      "date": "2022-07-19",
+      "amount": "850.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006416",
+      "date": "2022-07-19",
+      "amount": "2333.87",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006480",
+      "date": "2022-07-27",
+      "amount": "750.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006487",
+      "date": "2022-07-28",
+      "amount": "692.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006487",
+      "date": "2022-07-28",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006490",
+      "date": "2022-07-28",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006495",
+      "date": "2022-07-29",
+      "amount": "3121.07",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006562",
+      "date": "2022-08-05",
+      "amount": "515.90",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006629",
+      "date": "2022-08-17",
+      "amount": "1249.80",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006699",
+      "date": "2022-08-25",
+      "amount": "1920.00",
+      "supplier": "CLOSED - NATIONAL CENTRE FOR INTEGRATIVE MEDICINE"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006705",
+      "date": "2022-08-25",
+      "amount": "2000.00",
+      "supplier": "CLOSED CALYO"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006736",
+      "date": "2022-08-30",
+      "amount": "795.60",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006737",
+      "date": "2022-08-18",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006746",
+      "date": "2022-08-31",
+      "amount": "6803.93",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006764",
+      "date": "2022-08-31",
+      "amount": "18000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006765",
+      "date": "2022-08-31",
+      "amount": "8955.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006800",
+      "date": "2022-09-02",
+      "amount": "5748.60",
+      "supplier": "BATH CITY FARM"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006842",
+      "date": "2022-09-07",
+      "amount": "18897.15",
+      "supplier": "CLOSED - CREATIVITY WORKS"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006886",
+      "date": "2022-09-09",
+      "amount": "2241.40",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006893",
+      "date": "2022-09-13",
+      "amount": "600.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006899",
+      "date": "2022-09-14",
+      "amount": "791.68",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006925",
+      "date": "2022-09-16",
+      "amount": "1711.54",
+      "supplier": "REDCATCH COMMUNITY GARDEN"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007049",
+      "date": "2022-09-20",
+      "amount": "1548.36",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007158",
+      "date": "2022-10-17",
+      "amount": "830.00",
+      "supplier": "AVON WILDLIFE TRUST"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007160",
+      "date": "2022-10-17",
+      "amount": "520.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007213",
+      "date": "2022-10-24",
+      "amount": "1150.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007225",
+      "date": "2022-10-24",
+      "amount": "1543.36",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007240",
+      "date": "2022-10-26",
+      "amount": "2085.34",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007293",
+      "date": "2022-11-01",
+      "amount": "4488.75",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007332",
+      "date": "2022-11-03",
+      "amount": "583.76",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007414",
+      "date": "2022-11-10",
+      "amount": "1500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007437",
+      "date": "2022-11-14",
+      "amount": "1553.73",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007526",
+      "date": "2022-11-23",
+      "amount": "1800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007532",
+      "date": "2022-11-23",
+      "amount": "1249.80",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007541",
+      "date": "2022-11-24",
+      "amount": "5509.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007606",
+      "date": "2022-12-01",
+      "amount": "781.68",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007649",
+      "date": "2022-12-05",
+      "amount": "39293.68",
+      "supplier": "CENTRE FOR SUSTAINABLE ENERGY"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007688",
+      "date": "2022-12-07",
+      "amount": "545.00",
+      "supplier": "SPRINT PRINT & DESIGN"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007726",
+      "date": "2022-12-09",
+      "amount": "14073.93",
+      "supplier": "BATH CITY FARM"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007738",
+      "date": "2022-12-05",
+      "amount": "2371.00",
+      "supplier": "REDCATCH COMMUNITY GARDEN"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007782",
+      "date": "2022-12-14",
+      "amount": "7839.91",
+      "supplier": "CLOSED - CREATIVITY WORKS"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007783",
+      "date": "2022-12-14",
+      "amount": "7120.70",
+      "supplier": "CLOSED - CREATIVITY WORKS"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007829",
+      "date": "2022-12-19",
+      "amount": "3600.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007834",
+      "date": "2022-12-16",
+      "amount": "4000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007903",
+      "date": "2022-12-28",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300007769",
+      "date": "2022-12-14",
+      "amount": "6900.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300007839",
+      "date": "2022-12-19",
+      "amount": "521.12",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300007840",
+      "date": "2022-12-19",
+      "amount": "911.96",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300007878",
+      "date": "2022-12-21",
+      "amount": "1302.80",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300007947",
+      "date": "2023-01-04",
+      "amount": "515.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008072",
+      "date": "2023-01-20",
+      "amount": "62790.41",
+      "supplier": "LEONARD CHESHIRE"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008142",
+      "date": "2023-01-27",
+      "amount": "4000.00",
+      "supplier": "CLOSED - ProjICT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008159",
+      "date": "2023-01-30",
+      "amount": "825.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008162",
+      "date": "2023-01-30",
+      "amount": "1600.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008321",
+      "date": "2023-02-08",
+      "amount": "3000.00",
+      "supplier": "CLOSED - ProjICT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008356",
+      "date": "2023-02-10",
+      "amount": "2149.99",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008417",
+      "date": "2023-02-15",
+      "amount": "4111.75",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008487",
+      "date": "2023-02-20",
+      "amount": "10203.93",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008538",
+      "date": "2023-02-23",
+      "amount": "1080.97",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008560",
+      "date": "2023-02-27",
+      "amount": "1203.86",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008573",
+      "date": "2023-02-28",
+      "amount": "4500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008645",
+      "date": "2023-03-02",
+      "amount": "6000.00",
+      "supplier": "CLOSED - ProjICT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008706",
+      "date": "2023-03-08",
+      "amount": "520.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008767",
+      "date": "2023-03-13",
+      "amount": "6768.50",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008904",
+      "date": "2023-03-20",
+      "amount": "5278.00",
+      "supplier": "SPRINT PRINT & DESIGN"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008924",
+      "date": "2023-03-21",
+      "amount": "3000.00",
+      "supplier": "CLOSED - ProjICT"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300009060",
+      "date": "2023-03-27",
+      "amount": "61391.90",
+      "supplier": "LEONARD CHESHIRE"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300009072",
+      "date": "2023-03-27",
+      "amount": "655.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300008864",
+      "date": "2023-03-17",
+      "amount": "7500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009146",
+      "date": "2023-04-03",
+      "amount": "600.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009235",
+      "date": "2023-04-13",
+      "amount": "1182.52",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009248",
+      "date": "2023-04-17",
+      "amount": "1804.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009428",
+      "date": "2023-05-04",
+      "amount": "4500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009464",
+      "date": "2023-05-09",
+      "amount": "3824.39",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009464",
+      "date": "2023-05-09",
+      "amount": "4685.61",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009506",
+      "date": "2023-05-12",
+      "amount": "800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009508",
+      "date": "2023-05-12",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009509",
+      "date": "2023-05-12",
+      "amount": "850.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009617",
+      "date": "2023-05-24",
+      "amount": "4900.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009639",
+      "date": "2023-05-25",
+      "amount": "2400.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009640",
+      "date": "2023-05-25",
+      "amount": "1764.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009719",
+      "date": "2023-06-01",
+      "amount": "1574.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009734",
+      "date": "2023-06-02",
+      "amount": "4900.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009980",
+      "date": "2023-06-20",
+      "amount": "4590.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009981",
+      "date": "2023-06-20",
+      "amount": "6305.08",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300009981",
+      "date": "2023-06-20",
+      "amount": "7724.92",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300010028",
+      "date": "2023-06-23",
+      "amount": "7574.50",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300010034",
+      "date": "2023-06-23",
+      "amount": "725.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "1",
+      "transaction_no": "300010118",
+      "date": "2023-06-30",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010203",
+      "date": "2023-07-07",
+      "amount": "4900.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010298",
+      "date": "2023-07-19",
+      "amount": "525.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010333",
+      "date": "2023-07-24",
+      "amount": "4000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010335",
+      "date": "2023-07-24",
+      "amount": "750.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010462",
+      "date": "2023-08-07",
+      "amount": "595.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010463",
+      "date": "2023-08-07",
+      "amount": "799.70",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010491",
+      "date": "2023-08-08",
+      "amount": "4950.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010688",
+      "date": "2023-08-29",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010817",
+      "date": "2023-09-05",
+      "amount": "15655.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010843",
+      "date": "2023-09-08",
+      "amount": "6790.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010844",
+      "date": "2023-09-08",
+      "amount": "24000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010866",
+      "date": "2023-09-08",
+      "amount": "5862.42",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010866",
+      "date": "2023-09-08",
+      "amount": "7182.58",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010867",
+      "date": "2023-09-08",
+      "amount": "4455.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300010931",
+      "date": "2023-09-15",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300011015",
+      "date": "2023-09-26",
+      "amount": "14950.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "2",
+      "transaction_no": "300011083",
+      "date": "2023-09-29",
+      "amount": "825.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011356",
+      "date": "2023-10-25",
+      "amount": "1434.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011386",
+      "date": "2023-10-30",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011394",
+      "date": "2023-10-31",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011419",
+      "date": "2023-11-01",
+      "amount": "2400.00",
+      "supplier": "Ruth Gerrard"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011446",
+      "date": "2023-11-03",
+      "amount": "4000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011469",
+      "date": "2023-11-06",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011717",
+      "date": "2023-11-28",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011770",
+      "date": "2023-12-01",
+      "amount": "590.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011770",
+      "date": "2023-12-01",
+      "amount": "2950.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011826",
+      "date": "2023-12-06",
+      "amount": "800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011952",
+      "date": "2023-12-15",
+      "amount": "550.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "3",
+      "transaction_no": "300011981",
+      "date": "2023-12-18",
+      "amount": "6000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300012428",
+      "date": "2024-01-30",
+      "amount": "2300.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300012547",
+      "date": "2024-02-07",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300012862",
+      "date": "2024-03-05",
+      "amount": "6100.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300012869",
+      "date": "2024-03-05",
+      "amount": "3750.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300012905",
+      "date": "2024-03-06",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300013201",
+      "date": "2024-03-21",
+      "amount": "3500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300013246",
+      "date": "2024-03-22",
+      "amount": "2400.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300013247",
+      "date": "2024-03-22",
+      "amount": "1764.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300013267",
+      "date": "2024-03-22",
+      "amount": "4456.99",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013285",
+      "date": "2024-04-02",
+      "amount": "15000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013328",
+      "date": "2024-04-03",
+      "amount": "6800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013337",
+      "date": "2024-04-03",
+      "amount": "975.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013378",
+      "date": "2024-04-04",
+      "amount": "2168.75",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013379",
+      "date": "2024-04-04",
+      "amount": "9000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013435",
+      "date": "2024-04-08",
+      "amount": "3000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013504",
+      "date": "2024-04-15",
+      "amount": "3000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013505",
+      "date": "2024-04-15",
+      "amount": "3000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013547",
+      "date": "2024-04-17",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013548",
+      "date": "2024-04-17",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013594",
+      "date": "2024-04-22",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013614",
+      "date": "2024-04-24",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013782",
+      "date": "2024-05-07",
+      "amount": "15000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013857",
+      "date": "2024-05-13",
+      "amount": "753.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013863",
+      "date": "2024-05-14",
+      "amount": "1975.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300013951",
+      "date": "2024-05-21",
+      "amount": "1850.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014068",
+      "date": "2024-05-30",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014134",
+      "date": "2024-06-03",
+      "amount": "12000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014143",
+      "date": "2024-06-04",
+      "amount": "1649.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014144",
+      "date": "2024-06-04",
+      "amount": "585.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014215",
+      "date": "2024-06-10",
+      "amount": "4800.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014221",
+      "date": "2024-06-12",
+      "amount": "10000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014225",
+      "date": "2024-06-12",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014297",
+      "date": "2024-06-18",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "300014352",
+      "date": "2024-06-21",
+      "amount": "3109.51",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014439",
+      "date": "2024-07-01",
+      "amount": "3250.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014471",
+      "date": "2024-07-04",
+      "amount": "900.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014474",
+      "date": "2024-07-04",
+      "amount": "720.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014521",
+      "date": "2024-07-08",
+      "amount": "4000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014533",
+      "date": "2024-07-09",
+      "amount": "1625.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014616",
+      "date": "2024-07-15",
+      "amount": "10000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014680",
+      "date": "2024-07-22",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014688",
+      "date": "2024-07-22",
+      "amount": "650.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014761",
+      "date": "2024-07-26",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300014872",
+      "date": "2024-08-02",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015007",
+      "date": "2024-08-09",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015057",
+      "date": "2024-08-19",
+      "amount": "4975.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015067",
+      "date": "2024-08-19",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015092",
+      "date": "2024-08-20",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015093",
+      "date": "2024-08-20",
+      "amount": "1000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015107",
+      "date": "2024-08-21",
+      "amount": "3000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015134",
+      "date": "2024-08-23",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015205",
+      "date": "2024-09-03",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015330",
+      "date": "2024-09-06",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015428",
+      "date": "2024-09-13",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015431",
+      "date": "2024-09-13",
+      "amount": "1750.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015437",
+      "date": "2024-09-13",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015516",
+      "date": "2024-09-20",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015517",
+      "date": "2024-09-20",
+      "amount": "32375.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015520",
+      "date": "2024-09-20",
+      "amount": "3022.04",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015590",
+      "date": "2024-09-27",
+      "amount": "58822.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015596",
+      "date": "2024-09-27",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "300015598",
+      "date": "2024-09-27",
+      "amount": "4500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300014067",
+      "date": "2024-05-30",
+      "amount": "3466.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015505",
+      "date": "2024-09-18",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015506",
+      "date": "2024-09-18",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015693",
+      "date": "2024-10-04",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015717",
+      "date": "2024-10-08",
+      "amount": "4625.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015774",
+      "date": "2024-10-10",
+      "amount": "1750.00",
+      "supplier": "ANNA BARCLAY"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015813",
+      "date": "2024-10-14",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015825",
+      "date": "2024-10-14",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015902",
+      "date": "2024-10-17",
+      "amount": "610.00",
+      "supplier": "Paul Gillis"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300015922",
+      "date": "2024-10-18",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016027",
+      "date": "2024-10-25",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016046",
+      "date": "2024-10-25",
+      "amount": "1500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016047",
+      "date": "2024-10-25",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016145",
+      "date": "2024-11-01",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016156",
+      "date": "2024-11-04",
+      "amount": "1500.00",
+      "supplier": "ANNA BARCLAY"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016171",
+      "date": "2024-11-04",
+      "amount": "1890.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016196",
+      "date": "2024-11-05",
+      "amount": "2000.00",
+      "supplier": "ROZ STEWART-HALL RESEARCH AND EVALUATION"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016214",
+      "date": "2024-11-06",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016262",
+      "date": "2024-11-08",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016331",
+      "date": "2024-11-14",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016431",
+      "date": "2024-11-22",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016493",
+      "date": "2024-11-26",
+      "amount": "1130.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016570",
+      "date": "2024-11-29",
+      "amount": "1050.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016571",
+      "date": "2024-11-29",
+      "amount": "3000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016576",
+      "date": "2024-11-29",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016652",
+      "date": "2024-12-04",
+      "amount": "540.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016679",
+      "date": "2024-12-06",
+      "amount": "6755.57",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016686",
+      "date": "2024-12-10",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016705",
+      "date": "2024-12-10",
+      "amount": "2000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016739",
+      "date": "2024-12-12",
+      "amount": "6687.50",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016752",
+      "date": "2024-12-12",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "300016793",
+      "date": "2024-12-13",
+      "amount": "2500.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016907",
+      "date": "2024-12-23",
+      "amount": "1250.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016916",
+      "date": "2024-12-23",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016918",
+      "date": "2024-12-23",
+      "amount": "3850.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016983",
+      "date": "2025-01-02",
+      "amount": "5040.00",
+      "supplier": "Esther Shelley Design"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300016997",
+      "date": "2025-01-03",
+      "amount": "1000.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017034",
+      "date": "2025-01-07",
+      "amount": "14424.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017036",
+      "date": "2025-01-07",
+      "amount": "4000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017073",
+      "date": "2025-01-09",
+      "amount": "4631.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017074",
+      "date": "2025-01-09",
+      "amount": "1950.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017101",
+      "date": "2025-01-10",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017109",
+      "date": "2025-01-10",
+      "amount": "1140.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017174",
+      "date": "2025-01-17",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017240",
+      "date": "2025-01-24",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017379",
+      "date": "2025-01-30",
+      "amount": "950.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017407",
+      "date": "2025-01-31",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017420",
+      "date": "2025-02-03",
+      "amount": "3999.99",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017429",
+      "date": "2025-02-04",
+      "amount": "1847.50",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017444",
+      "date": "2025-02-04",
+      "amount": "1500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017463",
+      "date": "2025-02-04",
+      "amount": "4000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017503",
+      "date": "2025-02-05",
+      "amount": "1347.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017539",
+      "date": "2025-02-07",
+      "amount": "1950.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017575",
+      "date": "2025-02-11",
+      "amount": "2500.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017576",
+      "date": "2025-02-11",
+      "amount": "4500.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017577",
+      "date": "2025-02-11",
+      "amount": "1000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017595",
+      "date": "2025-02-12",
+      "amount": "2361.90",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017642",
+      "date": "2025-02-17",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017669",
+      "date": "2025-02-17",
+      "amount": "16187.50",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017676",
+      "date": "2025-02-17",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017719",
+      "date": "2025-02-20",
+      "amount": "2500.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017732",
+      "date": "2025-02-21",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017753",
+      "date": "2025-02-24",
+      "amount": "2000.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017767",
+      "date": "2025-02-24",
+      "amount": "577.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017832",
+      "date": "2025-02-26",
+      "amount": "1500.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017885",
+      "date": "2025-02-28",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017895",
+      "date": "2025-03-03",
+      "amount": "850.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300017987",
+      "date": "2025-03-07",
+      "amount": "6000.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018000",
+      "date": "2025-03-07",
+      "amount": "9791.50",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018020",
+      "date": "2025-03-07",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018031",
+      "date": "2025-03-10",
+      "amount": "1200.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018071",
+      "date": "2025-03-12",
+      "amount": "1055.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018111",
+      "date": "2025-03-12",
+      "amount": "9000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018151",
+      "date": "2025-03-13",
+      "amount": "2000.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018182",
+      "date": "2025-03-14",
+      "amount": "1155.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018208",
+      "date": "2025-03-06",
+      "amount": "5000.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018276",
+      "date": "2025-03-19",
+      "amount": "1750.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018346",
+      "date": "2025-03-21",
+      "amount": "7212.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018349",
+      "date": "2025-03-21",
+      "amount": "2500.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018387",
+      "date": "2025-03-24",
+      "amount": "5000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "4",
+      "transaction_no": "300018407",
+      "date": "2025-03-25",
+      "amount": "1200.00",
+      "supplier": "REDACTED"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018498",
+      "date": "2025-04-02",
+      "amount": "3222.50",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018522",
+      "date": "2025-04-02",
+      "amount": "1750.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018533",
+      "date": "2025-04-02",
+      "amount": "577.50",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018586",
+      "date": "2025-04-03",
+      "amount": "577.50",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018644",
+      "date": "2025-04-08",
+      "amount": "1000.00",
+      "supplier": "FRAZER MEAKING"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018770",
+      "date": "2025-04-16",
+      "amount": "577.50",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018818",
+      "date": "2025-04-22",
+      "amount": "3800.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300018839",
+      "date": "2025-04-23",
+      "amount": "6100.32",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300019034",
+      "date": "2025-05-07",
+      "amount": "770.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300019177",
+      "date": "2025-05-16",
+      "amount": "2050.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300019198",
+      "date": "2025-05-20",
+      "amount": "4000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "1",
+      "transaction_no": "300019420",
+      "date": "2025-06-06",
+      "amount": "3000.00",
+      "supplier": "REDACTED - SOLE TRADER"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300019733",
+      "date": "2025-06-26",
+      "amount": "1350.00",
+      "supplier": "A J Belshaw"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020446",
+      "date": "2025-08-12",
+      "amount": "5000.00",
+      "supplier": "Tim Scoones e freelance media consultant"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020529",
+      "date": "2025-08-20",
+      "amount": "1625.00",
+      "supplier": "ANDY COUNCIL"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020593",
+      "date": "2025-08-27",
+      "amount": "4995.00",
+      "supplier": "Briony Phillips"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020679",
+      "date": "2025-09-02",
+      "amount": "1360.00",
+      "supplier": "Anna Smithson"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020882",
+      "date": "2025-09-16",
+      "amount": "1625.00",
+      "supplier": "ANDY COUNCIL"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020949",
+      "date": "2025-09-19",
+      "amount": "1200.00",
+      "supplier": "Laura Williams"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Transparency reporting correction notice
+A technical issue affected previously published transparency reports for the West of England Combined Authority covering the period from Quarter 1 2020/21 to Quarter 2 2025/26.
+
+As part of a review of the transparency reporting process, it was identified that certain transaction types were not being captured within the reporting extract used to compile the published reports. As a result, the following payments were omitted from the original transparency reports:
+
+Payments processed directly through the Authority’s bank account.
+Payments processed through batch upload processes used for high-volume payment transactions.
+These omissions occurred because the relevant transaction types were not included within the reporting criteria used to generate the reports.
+
+A click to open in a new windowcomprehensive review has now been completed, and revised transparency reports have been produced for all quarters from Quarter 1 2020/21 to Quarter 2 2025/26 to include the previously omitted transactions. The original reports have been retained for transparency, and the revised reports have been published alongside them.
+
+To provide assurance over the accuracy of the revised information, a full reconciliation and review exercise has been undertaken across the corrected reports. The transparency reporting process has also been updated to ensure all relevant transaction types are captured in future reporting periods. A formal reconciliation and review process has been implemented and will be applied to all future quarterly transparency reports.
+
+We apologise for these omissions and remain committed to providing accurate and transparent information on the Authority’s expenditure.

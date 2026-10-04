@@ -1,0 +1,57 @@
+financial_year,quarter,transaction_no,original_purpose,corrected_purpose,original_service_area,corrected_service_area,original_supplier,corrected_supplier,original_doc_date,corrected_doc_date,original_amount,corrected_amount,amount_delta
+2024/25,2,300013459,Payments to Others,Payments to Others,Capital Delivery (Capital),Capital Delivery (Capital),SUSTRANS,WALK WHEEL CYCLE TRUST,2024-04-09,2024-04-09,5000.00,5000.00,0.00
+2024/25,2,300014288,Agency Costs - Temporary Staff,Agency staff,Legal & Democratic Services,Legal & Democratic Services,Solace in Business Ltd,"Solace in Business Ltd (Recruitment, Interim Management & Consultancy Services)",2024-06-18,2024-06-18,28440.00,28440.00,0.00
+2024/25,2,300014422,Transport - Other,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-07-01,2024-07-01,5166.50,5166.50,0.00
+2024/25,2,300014422,Transport - Other,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-07-01,2024-07-01,8720.40,8720.40,0.00
+2024/25,2,300014429,Transport Operators - Supported Bus Services,Transport Operators,Transport Operations,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-07-01,2024-07-01,13504.07,13504.07,0.00
+2024/25,2,300014438,Transport Operators - Supported Bus Services,Transport Operators,Transport Operations,Integrated Transport,The Big Lemon,Big Lemon Bristol and The West LTD,2024-07-01,2024-07-01,58710.71,58710.71,0.00
+2024/25,2,300014439,Photography,Communications & Marketing,Culture & Creative,Creative & Culture Economy,Redacted - Sole Trader,[REDACTED],2024-07-01,2024-07-01,3250.00,3250.00,0.00
+2024/25,2,300014471,Services - Other,Services,Strategy & Policy Team,Homes & Regeneration,AIREY & COLES,[REDACTED],2024-07-04,2024-07-04,900.00,900.00,0.00
+2024/25,2,300014474,Technical Advisor Costs,Professional Fees Project,Capital Delivery (Capital),Transport Strategy (Capital),Andrew Gordon Consulting Limited,[REDACTED],2024-07-04,2024-07-04,720.00,720.00,0.00
+2024/25,2,300014521,Consultants - Specialist Advice,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted - Sole Trader,[REDACTED],2024-07-08,2024-07-08,4000.00,4000.00,0.00
+2024/25,2,300014533,Copywriting,Communications & Marketing,Chief Executive,Executive Office,JO DAVIES CREATIVE,[REDACTED],2024-07-09,2024-07-09,1625.00,1625.00,0.00
+2024/25,2,300014579,General Grants,Grants,Business and Skills Delivery,Intergrated Delivery,DESTINATION BRISTOL T/A VISIT WEST,VISIT WEST LIMITED,2024-07-11,2024-07-11,12974.00,12974.00,0.00
+2024/25,2,300014616,Consultants - Project Based Work,Consultants,Culture & Creative,Creative & Culture Economy,MARK LEAVER CONSULTING LTD,[REDACTED],2024-07-15,2024-07-15,10000.00,10000.00,0.00
+2024/25,2,300014625,Private Businesses,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-07-16,2024-07-16,8423.65,8423.65,0.00
+2024/25,2,300014680,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-07-22,2024-07-22,2500.00,2500.00,0.00
+2024/25,2,300014688,General Grants,Grants,Culture & Creative,Creative & Culture Economy,Redacted - Sole Trader,[REDACTED],2024-07-22,2024-07-22,650.00,650.00,0.00
+2024/25,2,300014761,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-07-26,2024-07-26,2500.00,2500.00,0.00
+2024/25,2,300014849,Private Businesses,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-08-01,2024-08-01,4101.73,4101.73,0.00
+2024/25,2,300014849,Grants - Other,Capital Grants,Capital Environment,Low Carbon & Net Zero (Capital),BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-08-01,2024-08-01,11685.53,11685.53,0.00
+2024/25,2,300014855,Transport - Other,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-08-01,2024-08-01,2623.74,2623.74,0.00
+2024/25,2,300014855,Transport - Other,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-08-01,2024-08-01,4114.40,4114.40,0.00
+2024/25,2,300014872,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-08-02,2024-08-02,2500.00,2500.00,0.00
+2024/25,2,300014876,Transport Operators - Supported Bus Services,Transport Operators,Transport Operations,Integrated Transport,The Big Lemon,Big Lemon Bristol and The West LTD,2024-08-05,2024-08-05,58887.51,58887.51,0.00
+2024/25,2,300014882,Consultancy Costs,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Rowe IT,CACI Ltd (formerly Rowe IT),2024-08-05,2024-08-05,179400.00,179400.00,0.00
+2024/25,2,300014887,Transport Operators - Supported Bus Services,Transport Operators,Transport Operations,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-08-05,2024-08-05,13425.42,13425.42,0.00
+2024/25,2,300014983,Consultants - Project Based Work,Consultants,Funding from Central Government,Core Funding,Solace in Business Ltd,"Solace in Business Ltd (Recruitment, Interim Management & Consultancy Services)",2024-08-07,2024-08-07,23440.00,23440.00,0.00
+2024/25,2,300014985,Consultants - Project Based Work,Consultants,Funding from Central Government,Core Funding,Solace in Business Ltd,"Solace in Business Ltd (Recruitment, Interim Management & Consultancy Services)",2024-08-08,2024-08-08,5860.00,5860.00,0.00
+2024/25,2,300015007,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-08-09,2024-08-09,2500.00,2500.00,0.00
+2024/25,2,300015057,Consultancy Costs,Professional Fees Project,Capital Delivery (Capital),Capital Delivery (Capital),Redacted - Sole Trader,[REDACTED],2024-08-19,2024-08-19,4975.00,4975.00,0.00
+2024/25,2,300015062,Consultants - Annual Contract,Consultants,People & Assets,"Digital, Data & Operations",Socitm Advisory Limited,CIVITEQ TRADING LIMITED,2024-08-19,2024-08-19,15000.00,15000.00,0.00
+2024/25,2,300015067,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-08-19,2024-08-19,2500.00,2500.00,0.00
+2024/25,2,300015092,Photography,Communications & Marketing,Culture & Creative,Creative & Culture Economy,Redacted - Sole Trader,[REDACTED],2024-08-20,2024-08-20,1000.00,1000.00,0.00
+2024/25,2,300015093,Photography,Communications & Marketing,Low Carbon & Net Zero,Low Carbon & Net Zero,Redacted - Sole Trader,[REDACTED],2024-08-20,2024-08-20,1000.00,1000.00,0.00
+2024/25,2,300015107,Creative Design,Communications & Marketing,Culture & Creative,Creative & Culture Economy,Redacted - Sole Trader,[REDACTED],2024-08-21,2024-08-21,3000.00,3000.00,0.00
+2024/25,2,300015134,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-08-23,2024-08-23,2500.00,2500.00,0.00
+2024/25,2,300015205,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-09-03,2024-09-03,2000.00,2000.00,0.00
+2024/25,2,300015219,Transport - Other,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-09-03,2024-09-03,1833.82,1833.82,0.00
+2024/25,2,300015219,Transport - Other,Public Transport - Service Travel Costs,Financial Services,Central Resources,CLICK TRAVEL LTD,Perk UK LTD,2024-09-03,2024-09-03,7313.91,7313.91,0.00
+2024/25,2,300015222,Transport Operators - Supported Bus Services,Transport Operators,Transport Operations,Integrated Transport,C T Coaches (Susan Young & David Young T/A),C T Coaches Ltd,2024-09-03,2024-09-03,13348.63,13348.63,0.00
+2024/25,2,300015248,General Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,PEC Trust,PEC Trust t/a Plymouth Energy Community,2024-09-03,2024-09-03,151284.38,151284.38,0.00
+2024/25,2,300015288,Transport Operators - Supported Bus Services,Transport Operators,Transport Operations,Integrated Transport,The Big Lemon,Big Lemon Bristol and The West LTD,2024-09-04,2024-09-04,58826.71,58826.71,0.00
+2024/25,2,300015312,Private Businesses,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-09-05,2024-09-05,4260.42,4260.42,0.00
+2024/25,2,300015312,Grants - Other,Capital Grants,Capital Environment,Low Carbon & Net Zero (Capital),BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-09-05,2024-09-05,54730.86,54730.86,0.00
+2024/25,2,300015330,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-09-06,2024-09-06,2500.00,2500.00,0.00
+2024/25,2,300015345,General Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-09-06,2024-09-06,5405.00,5405.00,0.00
+2024/25,2,300015370,Services - Other,Services,Legal & Democratic Services,Legal & Democratic Services,RWK Goodmnan LLP,RWK Goodman LLP,2024-09-10,2024-09-10,1000.00,1000.00,0.00
+2024/25,2,300015414,General Grants,Grants,Low Carbon & Net Zero,Low Carbon & Net Zero,BRISTOL COMMUNITY ENERGY LTD,BRISTOL COMMUNITY ENERGY LTD T/A BRISTOL ENERGY COOPERATIVE,2024-09-11,2024-09-11,7835.00,7835.00,0.00
+2024/25,2,300015428,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-09-13,2024-09-13,2500.00,2500.00,0.00
+2024/25,2,300015431,Photography,Communications & Marketing,Culture & Creative,Creative & Culture Economy,Redacted - Sole Trader,[REDACTED],2024-09-13,2024-09-13,1750.00,1750.00,0.00
+2024/25,2,300015437,Consultants - Project Based Work,Consultants,Culture & Creative,Creative & Culture Economy,MARK LEAVER CONSULTING LTD,[REDACTED],2024-09-13,2024-09-13,5000.00,5000.00,0.00
+2024/25,2,300015516,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-09-20,2024-09-20,2500.00,2500.00,0.00
+2024/25,2,300015517,Website Design & Development,Digital,Chief Executive,Executive Office,JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-09-20,2024-09-20,32375.00,32375.00,0.00
+2024/25,2,300015520,Fees - Licences,Fees,Strategy & Policy Team,Strategy - Projects,Redacted - Sole Trader,[REDACTED],2024-09-20,2024-09-20,3022.04,3022.04,0.00
+2024/25,2,300015590,Hosting & Maintenance,Digital,People & Assets,"Digital, Data & Operations",JAMES BLAKE SOLUTIONS LTD T/A JBi DIGITAL,[REDACTED],2024-09-27,2024-09-27,58822.00,58822.00,0.00
+2024/25,2,300015596,Consultants - Annual Contract,Consultants,Financial Services,Central Resources,Mark Hourston Consultancy Ltd,[REDACTED],2024-09-27,2024-09-27,2500.00,2500.00,0.00
+2024/25,2,300015598,Consultants - Specialist Advice,Consultants,"Enterprise, Inward Investment & Trade","Enterprise, Inward Investment & Trade",Redacted - Sole Trader,[REDACTED],2024-09-27,2024-09-27,4500.00,4500.00,0.00

@@ -1,0 +1,80 @@
+{
+  "id": "core-funding-monthly",
+  "title": "Core Funding monthly payments",
+  "note": "Added Core Funding payments described as Government Departments. These are the repeating payments to Bristol City Council.",
+  "kind": "added",
+  "members": [
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400005767",
+      "date": "2024-05-01",
+      "amount": "797032.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400006003",
+      "date": "2024-06-04",
+      "amount": "797031.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "1",
+      "transaction_no": "400006184",
+      "date": "2024-07-02",
+      "amount": "797032.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006325",
+      "date": "2024-07-29",
+      "amount": "797032.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006520",
+      "date": "2024-09-02",
+      "amount": "708472.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "2",
+      "transaction_no": "400006698",
+      "date": "2024-09-27",
+      "amount": "708473.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400006891",
+      "date": "2024-10-31",
+      "amount": "708472.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007035",
+      "date": "2024-11-20",
+      "amount": "708473.00",
+      "supplier": "Bristol City Council"
+    },
+    {
+      "financial_year": "2024/25",
+      "quarter": "3",
+      "transaction_no": "400007300",
+      "date": "2025-01-02",
+      "amount": "708472.00",
+      "supplier": "Bristol City Council"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "individual-1",
+  "title": "Indidividual 1",
+  "note": "Payments to Y E Elsorougi, including added payments, payments un-redacted from Redacted - Sole Trader, and payments whose corrected supplier is a redaction of that name.",
+  "kind": "mixed",
+  "members": [
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000469",
+      "date": "2020-07-06",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300000715",
+      "date": "2020-08-12",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001024",
+      "date": "2020-09-21",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001374",
+      "date": "2020-10-29",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001567",
+      "date": "2020-11-23",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001732",
+      "date": "2020-12-11",
+      "amount": "9500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300001777",
+      "date": "2020-12-15",
+      "amount": "2500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002209",
+      "date": "2021-02-04",
+      "amount": "6500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002210",
+      "date": "2021-02-04",
+      "amount": "1500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002480",
+      "date": "2021-03-05",
+      "amount": "5500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002481",
+      "date": "2021-03-05",
+      "amount": "2500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002632",
+      "date": "2021-03-22",
+      "amount": "3000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002633",
+      "date": "2021-03-22",
+      "amount": "5500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300002740",
+      "date": "2021-04-07",
+      "amount": "4000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003184",
+      "date": "2021-05-24",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "1",
+      "transaction_no": "300003363",
+      "date": "2021-06-21",
+      "amount": "4000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300000469",
+      "date": "2020-07-06",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300000715",
+      "date": "2020-08-12",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "2",
+      "transaction_no": "300001024",
+      "date": "2020-09-21",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "3",
+      "transaction_no": "300001374",
+      "date": "2020-10-29",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "3",
+      "transaction_no": "300001567",
+      "date": "2020-11-23",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "3",
+      "transaction_no": "300001732",
+      "date": "2020-12-11",
+      "amount": "9500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "3",
+      "transaction_no": "300001777",
+      "date": "2020-12-15",
+      "amount": "2500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002209",
+      "date": "2021-02-04",
+      "amount": "6500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002210",
+      "date": "2021-02-04",
+      "amount": "1500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002480",
+      "date": "2021-03-05",
+      "amount": "5500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002481",
+      "date": "2021-03-05",
+      "amount": "2500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002632",
+      "date": "2021-03-22",
+      "amount": "3000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2020/21",
+      "quarter": "4",
+      "transaction_no": "300002633",
+      "date": "2021-03-22",
+      "amount": "5500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300002740",
+      "date": "2021-04-07",
+      "amount": "4000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003184",
+      "date": "2021-05-24",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "1",
+      "transaction_no": "300003363",
+      "date": "2021-06-21",
+      "amount": "4000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003525",
+      "date": "2021-07-13",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "2",
+      "transaction_no": "300003647",
+      "date": "2021-08-02",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004025",
+      "date": "2021-09-30",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004375",
+      "date": "2021-11-12",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "3",
+      "transaction_no": "300004638",
+      "date": "2021-12-15",
+      "amount": "3000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2021/22",
+      "quarter": "4",
+      "transaction_no": "300005411",
+      "date": "2022-03-18",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005792",
+      "date": "2022-04-29",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300005793",
+      "date": "2022-04-29",
+      "amount": "4000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "1",
+      "transaction_no": "300006256",
+      "date": "2022-06-28",
+      "amount": "4000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006489",
+      "date": "2022-07-28",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006803",
+      "date": "2022-09-05",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "2",
+      "transaction_no": "300006980",
+      "date": "2022-09-23",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007267",
+      "date": "2022-10-28",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007337",
+      "date": "2022-11-04",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "3",
+      "transaction_no": "300007838",
+      "date": "2022-12-19",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008001",
+      "date": "2023-01-12",
+      "amount": "4500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008161",
+      "date": "2023-01-30",
+      "amount": "5000.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2022/23",
+      "quarter": "4",
+      "transaction_no": "300008238",
+      "date": "2023-02-02",
+      "amount": "7500.00",
+      "supplier": "Y E ELSOROUGI"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300012186",
+      "date": "2024-01-08",
+      "amount": "5000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2023/24",
+      "quarter": "4",
+      "transaction_no": "300013192",
+      "date": "2024-03-21",
+      "amount": "4000.00",
+      "supplier": "[REDACTED]"
+    },
+    {
+      "financial_year": "2025/26",
+      "quarter": "2",
+      "transaction_no": "300020913",
+      "date": "2025-09-18",
+      "amount": "4990.00",
+      "supplier": "Y E ELSOROUGI"
+    }
+  ]
+}
